@@ -1,0 +1,2207 @@
+[
+    {
+        "name": "Chocolate Молочный Шоколад с Карамелизованным Дробленным Фундуком [Яшкино]",
+        "calories": "554 кКал",
+        "priteins": "6,2 г",
+        "fats": "35,6 г",
+        "carbohydrates": "52,3 г"
+    },
+    {
+        "name": "Elle [Яшкино]",
+        "calories": "240 кКал",
+        "priteins": "2,7 г",
+        "fats": "9,5 г",
+        "carbohydrates": "35,7 г"
+    },
+    {
+        "name": "Fun Banan [Яшкино]",
+        "calories": "490 кКал",
+        "priteins": "4,5 г",
+        "fats": "24 г",
+        "carbohydrates": "63 г"
+    },
+    {
+        "name": "Impulse [Яшкино]",
+        "calories": "447 кКал",
+        "priteins": "2,6 г",
+        "fats": "16,5 г",
+        "carbohydrates": "73 г"
+    },
+    {
+        "name": "Pro Чипсы [Яшкино]",
+        "calories": "510 кКал",
+        "priteins": "6 г",
+        "fats": "31 г",
+        "carbohydrates": "51 г"
+    },
+    {
+        "name": "Zебра [Яшкино]",
+        "calories": "460 кКал",
+        "priteins": "5,4 г",
+        "fats": "26 г",
+        "carbohydrates": "52 г"
+    },
+    {
+        "name": "Арахис в Какао [Яшкино]",
+        "calories": "410 кКал",
+        "priteins": "8 г",
+        "fats": "13 г",
+        "carbohydrates": "73 г"
+    },
+    {
+        "name": "Арахис в Молочной Шоколадной Глазури [Яшкино]",
+        "calories": "570 кКал",
+        "priteins": "14 г",
+        "fats": "41 г",
+        "carbohydrates": "35 г"
+    },
+    {
+        "name": "Батончик [Яшкино]",
+        "calories": "485 кКал",
+        "priteins": "7,2 г",
+        "fats": "24,3 г",
+        "carbohydrates": "59,2 г"
+    },
+    {
+        "name": "Батончик Funbanan [Яшкино]",
+        "calories": "490 кКал",
+        "priteins": "4,5 г",
+        "fats": "24 г",
+        "carbohydrates": "63 г"
+    },
+    {
+        "name": "Батончик Zebra [Яшкино]",
+        "calories": "470 кКал",
+        "priteins": "6,5 г",
+        "fats": "24 г",
+        "carbohydrates": "58 г"
+    },
+    {
+        "name": "Батончик Зебра [Яшкино]",
+        "calories": "460 кКал",
+        "priteins": "5,4 г",
+        "fats": "26 г",
+        "carbohydrates": "52 г"
+    },
+    {
+        "name": "Белый Шоколад [Яшкино]",
+        "calories": "575 кКал",
+        "priteins": "7 г",
+        "fats": "37 г",
+        "carbohydrates": "54 г"
+    },
+    {
+        "name": "Белый Шоколад Карамельный [Яшкино]",
+        "calories": "550 кКал",
+        "priteins": "8 г",
+        "fats": "33 г",
+        "carbohydrates": "56 г"
+    },
+    {
+        "name": "Бельгийский Молочный Шоколад [Яшкино]",
+        "calories": "530 кКал",
+        "priteins": "5 г",
+        "fats": "29 г",
+        "carbohydrates": "60 г"
+    },
+    {
+        "name": "Бельгийский Молочный Шоколад с Бисквитными Шариками [Яшкино]",
+        "calories": "510 кКал",
+        "priteins": "5,5 г",
+        "fats": "27 г",
+        "carbohydrates": "61 г"
+    },
+    {
+        "name": "Бельгийский Молочный Шоколад с Черносливом и Кукурузными Хлопьями [Яшкино]",
+        "calories": "490 кКал",
+        "priteins": "5 г",
+        "fats": "25 г",
+        "carbohydrates": "60 г"
+    },
+    {
+        "name": "Бельгийский Темный Шоколад 55% Какао [Яшкино]",
+        "calories": "525 кКал",
+        "priteins": "5,5 г",
+        "fats": "35 г",
+        "carbohydrates": "47 г"
+    },
+    {
+        "name": "Бисквитное Печенье [Яшкино]",
+        "calories": "295 кКал",
+        "priteins": "3,5 г",
+        "fats": "4 г",
+        "carbohydrates": "61 г"
+    },
+    {
+        "name": "Бисквитное Печенье Апельсин [Яшкино]",
+        "calories": "370 кКал",
+        "priteins": "4 г",
+        "fats": "9 г",
+        "carbohydrates": "68 г"
+    },
+    {
+        "name": "Бретцель с Солью [Яшкино]",
+        "calories": "410 кКал",
+        "priteins": "9,5 г",
+        "fats": "11 г",
+        "carbohydrates": "69 г"
+    },
+    {
+        "name": "Вафельная Конфета \"Дивная Даренка\" Глазированная [Яшкино]",
+        "calories": "560 кКал",
+        "priteins": "5,1 г",
+        "fats": "32 г",
+        "carbohydrates": "62 г"
+    },
+    {
+        "name": "Вафельная Конфета [Яшкино]",
+        "calories": "520 кКал",
+        "priteins": "5 г",
+        "fats": "32 г",
+        "carbohydrates": "62 г"
+    },
+    {
+        "name": "Вафельная Конфета Импульс [Яшкино]",
+        "calories": "490 кКал",
+        "priteins": "4 г",
+        "fats": "25 г",
+        "carbohydrates": "62 г"
+    },
+    {
+        "name": "Вафельное Драже [Яшкино]",
+        "calories": "529 кКал",
+        "priteins": "7,5 г",
+        "fats": "32,3 г",
+        "carbohydrates": "54,3 г"
+    },
+    {
+        "name": "Вафельные Кубики в Молочной Глазури [Яшкино]",
+        "calories": "550 кКал",
+        "priteins": "4,2 г",
+        "fats": "32 г",
+        "carbohydrates": "56 г"
+    },
+    {
+        "name": "Вафельные Рулетики со Вкусом Сгущённого Молока [Яшкино]",
+        "calories": "510 кКал",
+        "priteins": "5 г",
+        "fats": "25 г",
+        "carbohydrates": "66 г"
+    },
+    {
+        "name": "Вафельные Рулетики со Сгущенкой [Яшкино]",
+        "calories": "510 кКал",
+        "priteins": "5 г",
+        "fats": "25,2 г",
+        "carbohydrates": "66,2 г"
+    },
+    {
+        "name": "Вафельные Трубочки [Яшкино]",
+        "calories": "482 кКал",
+        "priteins": "7 г",
+        "fats": "23,7 г",
+        "carbohydrates": "71,7 г"
+    },
+    {
+        "name": "Вафельные Трубочки Лесной Орех [Яшкино]",
+        "calories": "500 кКал",
+        "priteins": "8 г",
+        "fats": "23 г",
+        "carbohydrates": "64 г"
+    },
+    {
+        "name": "Вафельные Трубочки Ореховые [Яшкино]",
+        "calories": "490 кКал",
+        "priteins": "5,5 г",
+        "fats": "23 г",
+        "carbohydrates": "64 г"
+    },
+    {
+        "name": "Вафельные Трубочки со Вкусом Сгущённого Молока [Яшкино]",
+        "calories": "490 кКал",
+        "priteins": "4,5 г",
+        "fats": "22 г",
+        "carbohydrates": "69 г"
+    },
+    {
+        "name": "Вафельный Сэндвич [Яшкино]",
+        "calories": "500 кКал",
+        "priteins": "5,5 г",
+        "fats": "27 г",
+        "carbohydrates": "58 г"
+    },
+    {
+        "name": "Вафли \"Яшкинская Белочка\" [Яшкино]",
+        "calories": "470 кКал",
+        "priteins": "6 г",
+        "fats": "25 г",
+        "carbohydrates": "56 г"
+    },
+    {
+        "name": "Вафли Impulse [Яшкино]",
+        "calories": "460 кКал",
+        "priteins": "3,6 г",
+        "fats": "25 г",
+        "carbohydrates": "55 г"
+    },
+    {
+        "name": "Вафли Белочка [Яшкино]",
+        "calories": "510 кКал",
+        "priteins": "7 г",
+        "fats": "28 г",
+        "carbohydrates": "60 г"
+    },
+    {
+        "name": "Вафли в Шоколаде [Яшкино]",
+        "calories": "530 кКал",
+        "priteins": "5 г",
+        "fats": "31 г",
+        "carbohydrates": "57 г"
+    },
+    {
+        "name": "Вафли Вафельный Сэндвич [Яшкино]",
+        "calories": "510 кКал",
+        "priteins": "5,5 г",
+        "fats": "30 г",
+        "carbohydrates": "56 г"
+    },
+    {
+        "name": "Вафли Глазированные [Яшкино]",
+        "calories": "520 кКал",
+        "priteins": "5,5 г",
+        "fats": "30 г",
+        "carbohydrates": "58 г"
+    },
+    {
+        "name": "Вафли Глазированные в Карамели [Яшкино]",
+        "calories": "450 кКал",
+        "priteins": "6 г",
+        "fats": "24 г",
+        "carbohydrates": "54 г"
+    },
+    {
+        "name": "Вафли Глазированные с Орехами [Яшкино]",
+        "calories": "500 кКал",
+        "priteins": "5,5 г",
+        "fats": "30 г",
+        "carbohydrates": "51 г"
+    },
+    {
+        "name": "Вафли Глазированные с Орешками Яшкино",
+        "calories": "530 кКал",
+        "priteins": "6 г",
+        "fats": "32 г",
+        "carbohydrates": "55 г"
+    },
+    {
+        "name": "Вафли Голландские [Яшкино]",
+        "calories": "430 кКал",
+        "priteins": "5,5 г",
+        "fats": "15 г",
+        "carbohydrates": "67 г"
+    },
+    {
+        "name": "Вафли Голландские с Карамельной Начинкой [Яшкино]",
+        "calories": "440 кКал",
+        "priteins": "6 г",
+        "fats": "15 г",
+        "carbohydrates": "69 г"
+    },
+    {
+        "name": "Вафли Голландские с Карамелью [Яшкино]",
+        "calories": "440 кКал",
+        "priteins": "7 г",
+        "fats": "24 г",
+        "carbohydrates": "50 г"
+    },
+    {
+        "name": "Вафли Голландские с Начинкой из Варёной Сгущёнки [Яшкино]",
+        "calories": "420 кКал",
+        "priteins": "6 г",
+        "fats": "16 г",
+        "carbohydrates": "63 г"
+    },
+    {
+        "name": "Вафли Голландские со Сгущенкой [Яшкино]",
+        "calories": "437 кКал",
+        "priteins": "6,7 г",
+        "fats": "16,4 г",
+        "carbohydrates": "65,3 г"
+    },
+    {
+        "name": "Вафли Зебра [Яшкино]",
+        "calories": "520 кКал",
+        "priteins": "5 г",
+        "fats": "27 г",
+        "carbohydrates": "63 г"
+    },
+    {
+        "name": "Вафли Капуччино [Яшкино]",
+        "calories": "515 кКал",
+        "priteins": "4,9 г",
+        "fats": "27,6 г",
+        "carbohydrates": "60,1 г"
+    },
+    {
+        "name": "Вафли Месье Шоколатье [Яшкино]",
+        "calories": "510 кКал",
+        "priteins": "5,5 г",
+        "fats": "28 г",
+        "carbohydrates": "58 г"
+    },
+    {
+        "name": "Вафли Ореховые [Яшкино]",
+        "calories": "480 кКал",
+        "priteins": "6 г",
+        "fats": "25 г",
+        "carbohydrates": "57 г"
+    },
+    {
+        "name": "Вафли с Варёной Сгущёнкой [Яшкино]",
+        "calories": "520 кКал",
+        "priteins": "5 г",
+        "fats": "27 г",
+        "carbohydrates": "63 г"
+    },
+    {
+        "name": "Вафли с Карамельной Начинкой [Яшкино]",
+        "calories": "430 кКал",
+        "priteins": "5,5 г",
+        "fats": "15 г",
+        "carbohydrates": "67 г"
+    },
+    {
+        "name": "Вафли с Карамелью [Яшкино]",
+        "calories": "440 кКал",
+        "priteins": "7 г",
+        "fats": "24 г",
+        "carbohydrates": "50 г"
+    },
+    {
+        "name": "Вафли с Карамелью Глазированные [Яшкино]",
+        "calories": "450 кКал",
+        "priteins": "4,5 г",
+        "fats": "24 г",
+        "carbohydrates": "56 г"
+    },
+    {
+        "name": "Вафли с Мягкой Карамелью [Яшкино]",
+        "calories": "460 кКал",
+        "priteins": "3,6 г",
+        "fats": "25 г",
+        "carbohydrates": "55 г"
+    },
+    {
+        "name": "Вафли с Мягкой Карамелью Глазированные Шоколадом [Яшкино]",
+        "calories": "450 кКал",
+        "priteins": "6 г",
+        "fats": "24 г",
+        "carbohydrates": "54 г"
+    },
+    {
+        "name": "Вафли с Мягкой Карамелью и Воздушной Кукурузой [Яшкино]",
+        "calories": "470 кКал",
+        "priteins": "6 г",
+        "fats": "21 г",
+        "carbohydrates": "65 г"
+    },
+    {
+        "name": "Вафли с Мягкой Карамелью, Арахисом и Изюмом [Яшкино]",
+        "calories": "480 кКал",
+        "priteins": "7 г",
+        "fats": "26 г",
+        "carbohydrates": "55 г"
+    },
+    {
+        "name": "Вафли с Орешками [Яшкино]",
+        "calories": "500 кКал",
+        "priteins": "5,5 г",
+        "fats": "30 г",
+        "carbohydrates": "51 г"
+    },
+    {
+        "name": "Вафли с Пористым Шоколадом [Яшкино]",
+        "calories": "555 кКал",
+        "priteins": "5,4 г",
+        "fats": "31,8 г",
+        "carbohydrates": "61,7 г"
+    },
+    {
+        "name": "Вафли с Халвой [Яшкино]",
+        "calories": "500 кКал",
+        "priteins": "7,5 г",
+        "fats": "26 г",
+        "carbohydrates": "60 г"
+    },
+    {
+        "name": "Вафли со Вкусом Лимона [Яшкино]",
+        "calories": "550 кКал",
+        "priteins": "5 г",
+        "fats": "31 г",
+        "carbohydrates": "63 г"
+    },
+    {
+        "name": "Вафли со Сгущенкой [Яшкино]",
+        "calories": "510 кКал",
+        "priteins": "5 г",
+        "fats": "26 г",
+        "carbohydrates": "63 г"
+    },
+    {
+        "name": "Вафли со Сливочным Вкусом [Яшкино]",
+        "calories": "480 кКал",
+        "priteins": "4,5 г",
+        "fats": "26 г",
+        "carbohydrates": "58 г"
+    },
+    {
+        "name": "Вафли Твист [Яшкино]",
+        "calories": "500 кКал",
+        "priteins": "5,5 г",
+        "fats": "27 г",
+        "carbohydrates": "58 г"
+    },
+    {
+        "name": "Вафли Топ-Топ [Яшкино]",
+        "calories": "510 кКал",
+        "priteins": "6,5 г",
+        "fats": "27 г",
+        "carbohydrates": "61 г"
+    },
+    {
+        "name": "Вафли Хрустящие Шоколадные [Яшкино]",
+        "calories": "540 кКал",
+        "priteins": "6 г",
+        "fats": "29 г",
+        "carbohydrates": "63 г"
+    },
+    {
+        "name": "Вафли Шоколадные [Яшкино]",
+        "calories": "510 кКал",
+        "priteins": "5,5 г",
+        "fats": "28 г",
+        "carbohydrates": "60 г"
+    },
+    {
+        "name": "Вафли Шоколайт [Яшкино]",
+        "calories": "510 кКал",
+        "priteins": "5,5 г",
+        "fats": "27 г",
+        "carbohydrates": "60 г"
+    },
+    {
+        "name": "Вафли Южная Страна [Яшкино]",
+        "calories": "510 кКал",
+        "priteins": "5,5 г",
+        "fats": "28 г",
+        "carbohydrates": "61 г"
+    },
+    {
+        "name": "Венские Мягкие Вафли с Вишневым Джемом [Яшкино]",
+        "calories": "390 кКал",
+        "priteins": "4,5 г",
+        "fats": "15 г",
+        "carbohydrates": "60 г"
+    },
+    {
+        "name": "Венские Мягкие Вафли с Кремом Вареная Сгущенка [Яшкино]",
+        "calories": "400 кКал",
+        "priteins": "5,9 г",
+        "fats": "20 г",
+        "carbohydrates": "50 г"
+    },
+    {
+        "name": "Версаль [Яшкино]",
+        "calories": "410 кКал",
+        "priteins": "1,5 г",
+        "fats": "11 г",
+        "carbohydrates": "77 г"
+    },
+    {
+        "name": "Галета [Яшкино]",
+        "calories": "380 кКал",
+        "priteins": "10 г",
+        "fats": "5,5 г",
+        "carbohydrates": "71 г"
+    },
+    {
+        "name": "Глазированные Хрустящие Вафли [Яшкино]",
+        "calories": "540 кКал",
+        "priteins": "5,5 г",
+        "fats": "33 г",
+        "carbohydrates": "60 г"
+    },
+    {
+        "name": "Глазированные Хрустящие Вафли с Орешками [Яшкино]",
+        "calories": "540 кКал",
+        "priteins": "6 г",
+        "fats": "32 г",
+        "carbohydrates": "56 г"
+    },
+    {
+        "name": "Глазированный Вафельный Торт [Яшкино]",
+        "calories": "530 кКал",
+        "priteins": "6,3 г",
+        "fats": "32 г",
+        "carbohydrates": "55 г"
+    },
+    {
+        "name": "Глазированный Вафельный Торт Ореховый [Яшкино]",
+        "calories": "540 кКал",
+        "priteins": "6 г",
+        "fats": "32 г",
+        "carbohydrates": "56 г"
+    },
+    {
+        "name": "Горький Шоколад с Кусочками Какао-Бобов [Яшкино]",
+        "calories": "560 кКал",
+        "priteins": "8 г",
+        "fats": "48 г",
+        "carbohydrates": "25 г"
+    },
+    {
+        "name": "Грановская Кунжутка [Яшкино]",
+        "calories": "547 кКал",
+        "priteins": "11 г",
+        "fats": "34 г",
+        "carbohydrates": "49,2 г"
+    },
+    {
+        "name": "Дивная Даренка [Яшкино]",
+        "calories": "380 кКал",
+        "priteins": "1 г",
+        "fats": "3 г",
+        "carbohydrates": "87 г"
+    },
+    {
+        "name": "Драже Арахис в Молочной Шоколадной Глазури [Яшкино]",
+        "calories": "490 кКал",
+        "priteins": "11 г",
+        "fats": "27 г",
+        "carbohydrates": "53 г"
+    },
+    {
+        "name": "Жевательные Конфеты \"Нота Бум\" [Яшкино]",
+        "calories": "420 кКал",
+        "priteins": "5,3 г",
+        "fats": "13,1 г",
+        "carbohydrates": "82 г"
+    },
+    {
+        "name": "Жевательный Мармелад [Яшкино]",
+        "calories": "310 кКал",
+        "priteins": "2 г",
+        "fats": "0 г",
+        "carbohydrates": "76 г"
+    },
+    {
+        "name": "Заварики [Яшкино]",
+        "calories": "532 кКал",
+        "priteins": "11,4 г",
+        "fats": "28,5 г",
+        "carbohydrates": "50,5 г"
+    },
+    {
+        "name": "Заварные Пышечки в Белой Глазури [Яшкино]",
+        "calories": "435 кКал",
+        "priteins": "6,2 г",
+        "fats": "22 г",
+        "carbohydrates": "53,5 г"
+    },
+    {
+        "name": "Зебра [Яшкино]",
+        "calories": "490 кКал",
+        "priteins": "7,5 г",
+        "fats": "27 г",
+        "carbohydrates": "54 г"
+    },
+    {
+        "name": "Зебра Мини [Яшкино]",
+        "calories": "430 кКал",
+        "priteins": "6 г",
+        "fats": "23 г",
+        "carbohydrates": "52 г"
+    },
+    {
+        "name": "Зефир в Кондитерской Глазури [Яшкино]",
+        "calories": "380 кКал",
+        "priteins": "2 г",
+        "fats": "10 г",
+        "carbohydrates": "71 г"
+    },
+    {
+        "name": "Зефир в Шоколаде [Яшкино]",
+        "calories": "390 кКал",
+        "priteins": "1,5 г",
+        "fats": "9,5 г",
+        "carbohydrates": "74 г"
+    },
+    {
+        "name": "Зефир Ванильный [Яшкино]",
+        "calories": "330 кКал",
+        "priteins": "1 г",
+        "fats": "0 г",
+        "carbohydrates": "76 г"
+    },
+    {
+        "name": "Зефир Ванильный Belucci [Яшкино]",
+        "calories": "320 кКал",
+        "priteins": "1 г",
+        "fats": "0 г",
+        "carbohydrates": "79 г"
+    },
+    {
+        "name": "Зефир с Малиной [Яшкино]",
+        "calories": "320 кКал",
+        "priteins": "1 г",
+        "fats": "0 г",
+        "carbohydrates": "79 г"
+    },
+    {
+        "name": "Золотая Рыбка Крекер [Яшкино]",
+        "calories": "430 кКал",
+        "priteins": "8,5 г",
+        "fats": "13 г",
+        "carbohydrates": "69 г"
+    },
+    {
+        "name": "Изюм в Сахарной Глазури [Яшкино]",
+        "calories": "330 кКал",
+        "priteins": "0,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "88 г"
+    },
+    {
+        "name": "Импульс [Яшкино]",
+        "calories": "485 кКал",
+        "priteins": "7,2 г",
+        "fats": "24,3 г",
+        "carbohydrates": "59,2 г"
+    },
+    {
+        "name": "Ирис Нота Бум [Яшкино]",
+        "calories": "411 кКал",
+        "priteins": "3,8 г",
+        "fats": "8,7 г",
+        "carbohydrates": "81,9 г"
+    },
+    {
+        "name": "Ирис с Арахисом [Яшкино]",
+        "calories": "460 кКал",
+        "priteins": "8 г",
+        "fats": "18 г",
+        "carbohydrates": "66 г"
+    },
+    {
+        "name": "Ирис с Шоколадным Вкусом [Яшкино]",
+        "calories": "400 кКал",
+        "priteins": "3 г",
+        "fats": "8,5 г",
+        "carbohydrates": "79 г"
+    },
+    {
+        "name": "Ирис Сливочный [Яшкино]",
+        "calories": "420 кКал",
+        "priteins": "2,1 г",
+        "fats": "8,5 г",
+        "carbohydrates": "84 г"
+    },
+    {
+        "name": "Ирис Тираженный с Арахисом [Яшкино]",
+        "calories": "460 кКал",
+        "priteins": "8 г",
+        "fats": "18 г",
+        "carbohydrates": "66 г"
+    },
+    {
+        "name": "Итальянский Кекс [Яшкино]",
+        "calories": "380 кКал",
+        "priteins": "5,5 г",
+        "fats": "18 г",
+        "carbohydrates": "49 г"
+    },
+    {
+        "name": "Итальянский Кекс с Вишневым Джемом и Шоколадным Кремом [Яшкино]",
+        "calories": "390 кКал",
+        "priteins": "5,5 г",
+        "fats": "19 г",
+        "carbohydrates": "50 г"
+    },
+    {
+        "name": "Итальянский Кекс с Клубничным Джемом и Сливочным Кремом [Яшкино]",
+        "calories": "380 кКал",
+        "priteins": "5,5 г",
+        "fats": "18 г",
+        "carbohydrates": "50 г"
+    },
+    {
+        "name": "Итальянский Круассан с Шоколадным Кремом [Яшкино]",
+        "calories": "420 кКал",
+        "priteins": "6,5 г",
+        "fats": "21 г",
+        "carbohydrates": "50 г"
+    },
+    {
+        "name": "Итальянский Круассан со Сливочным Кремом [Яшкино]",
+        "calories": "410 кКал",
+        "priteins": "6,5 г",
+        "fats": "19 г",
+        "carbohydrates": "52 г"
+    },
+    {
+        "name": "Итальянский Круассан со Сливочным Кремом [Яшкино]",
+        "calories": "180 кКал",
+        "priteins": "3 г",
+        "fats": "9 г",
+        "carbohydrates": "22 г"
+    },
+    {
+        "name": "Карамель в Глазури Дворянка [Яшкино]",
+        "calories": "400 кКал",
+        "priteins": "3,5 г",
+        "fats": "5 г",
+        "carbohydrates": "86 г"
+    },
+    {
+        "name": "Карамельный Шоколад [Яшкино]",
+        "calories": "570 кКал",
+        "priteins": "9 г",
+        "fats": "36 г",
+        "carbohydrates": "53 г"
+    },
+    {
+        "name": "Классический Крекер [Яшкино]",
+        "calories": "460 кКал",
+        "priteins": "8,5 г",
+        "fats": "18 г",
+        "carbohydrates": "66 г"
+    },
+    {
+        "name": "Конфета Белуччи [Яшкино]",
+        "calories": "440 кКал",
+        "priteins": "1,5 г",
+        "fats": "21 г",
+        "carbohydrates": "60 г"
+    },
+    {
+        "name": "Конфета Итальяна [Яшкино]",
+        "calories": "413 кКал",
+        "priteins": "2,9 г",
+        "fats": "12,6 г",
+        "carbohydrates": "73,3 г"
+    },
+    {
+        "name": "Конфета Крокант с Миндалем [Яшкино]",
+        "calories": "570 кКал",
+        "priteins": "5,6 г",
+        "fats": "38,1 г",
+        "carbohydrates": "48,9 г"
+    },
+    {
+        "name": "Конфета Мексикана [Яшкино]",
+        "calories": "510 кКал",
+        "priteins": "4,4 г",
+        "fats": "29,9 г",
+        "carbohydrates": "55,8 г"
+    },
+    {
+        "name": "Конфета Ярче [Яшкино]",
+        "calories": "533 кКал",
+        "priteins": "6,7 г",
+        "fats": "30,3 г",
+        "carbohydrates": "58,5 г"
+    },
+    {
+        "name": "Конфета Яшкинская Картошка [Яшкино]",
+        "calories": "533 кКал",
+        "priteins": "7,8 г",
+        "fats": "12,5 г",
+        "carbohydrates": "53,7 г"
+    },
+    {
+        "name": "Конфеты \"Загорская Сливочная\" [Яшкино]",
+        "calories": "390 кКал",
+        "priteins": "2,5 г",
+        "fats": "4 г",
+        "carbohydrates": "85 г"
+    },
+    {
+        "name": "Конфеты \"Чио Рио\" [Яшкино]",
+        "calories": "315 кКал",
+        "priteins": "2 г",
+        "fats": "19,2 г",
+        "carbohydrates": "33,6 г"
+    },
+    {
+        "name": "Конфеты Belucci [Яшкино]",
+        "calories": "430 кКал",
+        "priteins": "1,5 г",
+        "fats": "20 г",
+        "carbohydrates": "61 г"
+    },
+    {
+        "name": "Конфеты Elle с Шоколадно-Ореховой Начинкой [Яшкино]",
+        "calories": "520 кКал",
+        "priteins": "4,5 г",
+        "fats": "27 г",
+        "carbohydrates": "65 г"
+    },
+    {
+        "name": "Конфеты Glaze [Яшкино]",
+        "calories": "420 кКал",
+        "priteins": "1,5 г",
+        "fats": "12 г",
+        "carbohydrates": "76 г"
+    },
+    {
+        "name": "Конфеты Белая Черемуха [Яшкино]",
+        "calories": "380 кКал",
+        "priteins": "2,5 г",
+        "fats": "14,2 г",
+        "carbohydrates": "63,8 г"
+    },
+    {
+        "name": "Конфеты Бон Тайм [Яшкино]",
+        "calories": "438 кКал",
+        "priteins": "2,4 г",
+        "fats": "15,4 г",
+        "carbohydrates": "38,6 г"
+    },
+    {
+        "name": "Конфеты Версаль [Яшкино]",
+        "calories": "410 кКал",
+        "priteins": "2,5 г",
+        "fats": "11 г",
+        "carbohydrates": "77 г"
+    },
+    {
+        "name": "Конфеты Глэйс [Яшкино]",
+        "calories": "410 кКал",
+        "priteins": "2 г",
+        "fats": "12 г",
+        "carbohydrates": "73 г"
+    },
+    {
+        "name": "Конфеты Желейные Эки-Боки [Яшкино]",
+        "calories": "310 кКал",
+        "priteins": "2 г",
+        "fats": "0 г",
+        "carbohydrates": "76 г"
+    },
+    {
+        "name": "Конфеты Крокант [Яшкино]",
+        "calories": "396 кКал",
+        "priteins": "5,6 г",
+        "fats": "38,1 г",
+        "carbohydrates": "48,9 г"
+    },
+    {
+        "name": "Конфеты Крокант [Яшкино]",
+        "calories": "24 кКал",
+        "priteins": "0,3 г",
+        "fats": "2,3 г",
+        "carbohydrates": "2,9 г"
+    },
+    {
+        "name": "Конфеты Нильс [Яшкино]",
+        "calories": "392 кКал",
+        "priteins": "0 г",
+        "fats": "0,1 г",
+        "carbohydrates": "96,2 г"
+    },
+    {
+        "name": "Конфеты Томские Классические [Яшкино]",
+        "calories": "440 кКал",
+        "priteins": "2,5 г",
+        "fats": "22 г",
+        "carbohydrates": "57 г"
+    },
+    {
+        "name": "Конфеты Фэнси [Яшкино]",
+        "calories": "320 кКал",
+        "priteins": "0,9 г",
+        "fats": "7,4 г",
+        "carbohydrates": "71,3 г"
+    },
+    {
+        "name": "Конфеты Ярче [Яшкино]",
+        "calories": "478 кКал",
+        "priteins": "10,3 г",
+        "fats": "24,4 г",
+        "carbohydrates": "53 г"
+    },
+    {
+        "name": "Конфеты Яшкинская Картошка [Яшкино]",
+        "calories": "486 кКал",
+        "priteins": "5,4 г",
+        "fats": "29,6 г",
+        "carbohydrates": "49,7 г"
+    },
+    {
+        "name": "Крекер \"Золотая Рыбка\" [Яшкино]",
+        "calories": "420 кКал",
+        "priteins": "9 г",
+        "fats": "14 г",
+        "carbohydrates": "71 г"
+    },
+    {
+        "name": "Крекер Визит Нежности [Яшкино]",
+        "calories": "460 кКал",
+        "priteins": "8 г",
+        "fats": "20 г",
+        "carbohydrates": "62 г"
+    },
+    {
+        "name": "Крекер Поляна Сказок [Яшкино]",
+        "calories": "470 кКал",
+        "priteins": "7,5 г",
+        "fats": "21 г",
+        "carbohydrates": "62 г"
+    },
+    {
+        "name": "Крекер с Кунжутом [Яшкино]",
+        "calories": "510 кКал",
+        "priteins": "8,5 г",
+        "fats": "24 г",
+        "carbohydrates": "66 г"
+    },
+    {
+        "name": "Крекер с Солью [Яшкино]",
+        "calories": "450 кКал",
+        "priteins": "9 г",
+        "fats": "15 г",
+        "carbohydrates": "67 г"
+    },
+    {
+        "name": "Крекер с Сыром [Яшкино]",
+        "calories": "450 кКал",
+        "priteins": "8,5 г",
+        "fats": "20 г",
+        "carbohydrates": "60 г"
+    },
+    {
+        "name": "Крекер с Томатом и Базиликом [Яшкино]",
+        "calories": "460 кКал",
+        "priteins": "9 г",
+        "fats": "18 г",
+        "carbohydrates": "63 г"
+    },
+    {
+        "name": "Крекер со Злаками [Яшкино]",
+        "calories": "440 кКал",
+        "priteins": "9,5 г",
+        "fats": "19 г",
+        "carbohydrates": "61 г"
+    },
+    {
+        "name": "Крекер Французский [Яшкино]",
+        "calories": "490 кКал",
+        "priteins": "8 г",
+        "fats": "23 г",
+        "carbohydrates": "62 г"
+    },
+    {
+        "name": "Крекер Французский с Кунжутом [Яшкино]",
+        "calories": "510 кКал",
+        "priteins": "8,5 г",
+        "fats": "24 г",
+        "carbohydrates": "66 г"
+    },
+    {
+        "name": "Крендельки Бретцель с Солью [Яшкино]",
+        "calories": "410 кКал",
+        "priteins": "9,5 г",
+        "fats": "11 г",
+        "carbohydrates": "69 г"
+    },
+    {
+        "name": "Крендельки с Солью [Яшкино]",
+        "calories": "410 кКал",
+        "priteins": "9,5 г",
+        "fats": "11 г",
+        "carbohydrates": "69 г"
+    },
+    {
+        "name": "Крокант [Яшкино]",
+        "calories": "560 кКал",
+        "priteins": "6,5 г",
+        "fats": "37,7 г",
+        "carbohydrates": "49,7 г"
+    },
+    {
+        "name": "Крокант с Миндалем [Яшкино]",
+        "calories": "556 кКал",
+        "priteins": "6,6 г",
+        "fats": "37,1 г",
+        "carbohydrates": "49,7 г"
+    },
+    {
+        "name": "Круасан [Яшкино]",
+        "calories": "180 кКал",
+        "priteins": "3 г",
+        "fats": "9 г",
+        "carbohydrates": "22 г"
+    },
+    {
+        "name": "Круассан с Вареной Сгущенкой [Яшкино]",
+        "calories": "410 кКал",
+        "priteins": "6 г",
+        "fats": "20 г",
+        "carbohydrates": "49 г"
+    },
+    {
+        "name": "Круассан с Вишнёвым Джемом [Яшкино]",
+        "calories": "400 кКал",
+        "priteins": "5 г",
+        "fats": "17 г",
+        "carbohydrates": "54 г"
+    },
+    {
+        "name": "Круассан с Шоколадным Кремом [Яшкино]",
+        "calories": "400 кКал",
+        "priteins": "6,5 г",
+        "fats": "19 г",
+        "carbohydrates": "51 г"
+    },
+    {
+        "name": "Круассан со Сливочным Кремом [Яшкино]",
+        "calories": "410 кКал",
+        "priteins": "6,5 г",
+        "fats": "19 г",
+        "carbohydrates": "52 г"
+    },
+    {
+        "name": "Леденцы с Соком [Яшкино]",
+        "calories": "362 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "96 г"
+    },
+    {
+        "name": "Мармелад Сердечки [Яшкино]",
+        "calories": "290 кКал",
+        "priteins": "0,5 г",
+        "fats": "0 г",
+        "carbohydrates": "71 г"
+    },
+    {
+        "name": "Мармелад Фруктовый Микс [Яшкино]",
+        "calories": "310 кКал",
+        "priteins": "2 г",
+        "fats": "0 г",
+        "carbohydrates": "76 г"
+    },
+    {
+        "name": "Мармелад Эки-Боки [Яшкино]",
+        "calories": "310 кКал",
+        "priteins": "2 г",
+        "fats": "0 г",
+        "carbohydrates": "76 г"
+    },
+    {
+        "name": "Мини Батончик Зебра-Мини [Яшкино]",
+        "calories": "470 кКал",
+        "priteins": "6,5 г",
+        "fats": "24 г",
+        "carbohydrates": "58 г"
+    },
+    {
+        "name": "Мини Круассан с Шоколадным Кремом [Яшкино]",
+        "calories": "430 кКал",
+        "priteins": "6,5 г",
+        "fats": "21 г",
+        "carbohydrates": "53 г"
+    },
+    {
+        "name": "Мини Круассаны [Яшкино]",
+        "calories": "428 кКал",
+        "priteins": "5,2 г",
+        "fats": "20,4 г",
+        "carbohydrates": "52,4 г"
+    },
+    {
+        "name": "Мини Круассаны с Вареной Сгущенкой [Яшкино]",
+        "calories": "430 кКал",
+        "priteins": "6,5 г",
+        "fats": "22 г",
+        "carbohydrates": "51 г"
+    },
+    {
+        "name": "Мини Круассаны с Клубничным Джемом [Яшкино]",
+        "calories": "410 кКал",
+        "priteins": "5,5 г",
+        "fats": "17 г",
+        "carbohydrates": "59 г"
+    },
+    {
+        "name": "Мини Круассаны с Шоколадным Кремом [Яшкино]",
+        "calories": "430 кКал",
+        "priteins": "6,5 г",
+        "fats": "21 г",
+        "carbohydrates": "53 г"
+    },
+    {
+        "name": "Мини Круассаны со Сливочным Кремом [Яшкино]",
+        "calories": "430 кКал",
+        "priteins": "6,5 г",
+        "fats": "21 г",
+        "carbohydrates": "54 г"
+    },
+    {
+        "name": "Мини-Рулет [Яшкино]",
+        "calories": "126 кКал",
+        "priteins": "1,8 г",
+        "fats": "4,6 г",
+        "carbohydrates": "19,6 г"
+    },
+    {
+        "name": "Мини-Рулет Клубничный [Яшкино]",
+        "calories": "390 кКал",
+        "priteins": "5 г",
+        "fats": "15 г",
+        "carbohydrates": "59 г"
+    },
+    {
+        "name": "Мини-Рулет с Варёной Сгущёнкой [Яшкино]",
+        "calories": "370 кКал",
+        "priteins": "5 г",
+        "fats": "14 г",
+        "carbohydrates": "57 г"
+    },
+    {
+        "name": "Мини-Рулет с Варёной Сгущёнкой [Яшкино]",
+        "calories": "370 кКал",
+        "priteins": "5 г",
+        "fats": "14 г",
+        "carbohydrates": "57 г"
+    },
+    {
+        "name": "Молочный Шоколад [Яшкино]",
+        "calories": "510 кКал",
+        "priteins": "5,5 г",
+        "fats": "26 г",
+        "carbohydrates": "63 г"
+    },
+    {
+        "name": "Молочный Шоколад Клубника и Йогурт [Яшкино]",
+        "calories": "570 кКал",
+        "priteins": "5 г",
+        "fats": "38 г",
+        "carbohydrates": "51 г"
+    },
+    {
+        "name": "Молочный Шоколад Кокосовый Мусс [Яшкино]",
+        "calories": "570 кКал",
+        "priteins": "4,5 г",
+        "fats": "36 г",
+        "carbohydrates": "56 г"
+    },
+    {
+        "name": "Молочный Шоколад Ореховый Мусс [Яшкино]",
+        "calories": "570 кКал",
+        "priteins": "4 г",
+        "fats": "38 г",
+        "carbohydrates": "53 г"
+    },
+    {
+        "name": "Молочный Шоколад с Ананасом [Яшкино]",
+        "calories": "510 кКал",
+        "priteins": "6 г",
+        "fats": "28 г",
+        "carbohydrates": "59 г"
+    },
+    {
+        "name": "Молочный Шоколад с Арахисом [Яшкино]",
+        "calories": "560 кКал",
+        "priteins": "12 г",
+        "fats": "37 г",
+        "carbohydrates": "44 г"
+    },
+    {
+        "name": "Молочный Шоколад с Бисквитными Шариками [Яшкино]",
+        "calories": "510 кКал",
+        "priteins": "5,5 г",
+        "fats": "27 г",
+        "carbohydrates": "61 г"
+    },
+    {
+        "name": "Молочный Шоколад с Грушей [Яшкино]",
+        "calories": "380 кКал",
+        "priteins": "2,5 г",
+        "fats": "15 г",
+        "carbohydrates": "58 г"
+    },
+    {
+        "name": "Молочный Шоколад с Дробленым Фундуком [Яшкино]",
+        "calories": "545 кКал",
+        "priteins": "6,5 г",
+        "fats": "33 г",
+        "carbohydrates": "55 г"
+    },
+    {
+        "name": "Молочный Шоколад с Дробленым Фундуком и Изюмом [Яшкино]",
+        "calories": "525 кКал",
+        "priteins": "6 г",
+        "fats": "31 г",
+        "carbohydrates": "55 г"
+    },
+    {
+        "name": "Молочный Шоколад с Изюмом и Арахисом [Яшкино]",
+        "calories": "520 кКал",
+        "priteins": "8,5 г",
+        "fats": "30 г",
+        "carbohydrates": "54 г"
+    },
+    {
+        "name": "Молочный Шоколад с Карамелизированным Дробленым Фундуком [Яшкино]",
+        "calories": "554 кКал",
+        "priteins": "6,2 г",
+        "fats": "35,6 г",
+        "carbohydrates": "52,3 г"
+    },
+    {
+        "name": "Молочный Шоколад с Карамельной Начинкой [Яшкино]",
+        "calories": "560 кКал",
+        "priteins": "5,5 г",
+        "fats": "34 г",
+        "carbohydrates": "57 г"
+    },
+    {
+        "name": "Молочный Шоколад с Кокосовой Начинкой [Яшкино]",
+        "calories": "570 кКал",
+        "priteins": "4,5 г",
+        "fats": "36 г",
+        "carbohydrates": "56 г"
+    },
+    {
+        "name": "Молочный Шоколад с Крекером [Яшкино]",
+        "calories": "525 кКал",
+        "priteins": "7,5 г",
+        "fats": "30 г",
+        "carbohydrates": "56 г"
+    },
+    {
+        "name": "Молочный Шоколад с Крекером Рыбки [Яшкино]",
+        "calories": "515 кКал",
+        "priteins": "5,5 г",
+        "fats": "28 г",
+        "carbohydrates": "60 г"
+    },
+    {
+        "name": "Молочный Шоколад с Начинкой Груша [Яшкино]",
+        "calories": "420 кКал",
+        "priteins": "3 г",
+        "fats": "17 г",
+        "carbohydrates": "64 г"
+    },
+    {
+        "name": "Молочный Шоколад с Начинкой Карамель [Яшкино]",
+        "calories": "560 кКал",
+        "priteins": "5,5 г",
+        "fats": "34 г",
+        "carbohydrates": "57 г"
+    },
+    {
+        "name": "Молочный Шоколад с Цельным Фундуком [Яшкино]",
+        "calories": "570 кКал",
+        "priteins": "8 г",
+        "fats": "39 г",
+        "carbohydrates": "47 г"
+    },
+    {
+        "name": "Молочный Шоколад с Черносливом и Кукурузными Хлопьями [Яшкино]",
+        "calories": "570 кКал",
+        "priteins": "6 г",
+        "fats": "37 г",
+        "carbohydrates": "53 г"
+    },
+    {
+        "name": "Молочный Шоколад с Шоколадно-Банановой Начинкой [Яшкино]",
+        "calories": "560 кКал",
+        "priteins": "3,5 г",
+        "fats": "35 г",
+        "carbohydrates": "57 г"
+    },
+    {
+        "name": "Мука Цельнозерновая [Яшкино]",
+        "calories": "312 кКал",
+        "priteins": "11,5 г",
+        "fats": "2,2 г",
+        "carbohydrates": "61,5 г"
+    },
+    {
+        "name": "Мягкие Вафли [Яшкино]",
+        "calories": "440 кКал",
+        "priteins": "7 г",
+        "fats": "24 г",
+        "carbohydrates": "50 г"
+    },
+    {
+        "name": "Мягкие Вафли с Вареной Сгущенкой [Яшкино]",
+        "calories": "430 кКал",
+        "priteins": "6 г",
+        "fats": "22 г",
+        "carbohydrates": "49 г"
+    },
+    {
+        "name": "Мягкие Вафли с Вишневым Джемом [Яшкино]",
+        "calories": "390 кКал",
+        "priteins": "4,5 г",
+        "fats": "15 г",
+        "carbohydrates": "60 г"
+    },
+    {
+        "name": "Мягкие Вафли с Кремом Вареная Сгущенка [Яшкино]",
+        "calories": "400 кКал",
+        "priteins": "6 г",
+        "fats": "20 г",
+        "carbohydrates": "50 г"
+    },
+    {
+        "name": "Мягкие Вафли с Шоколадным Кремом [Яшкино]",
+        "calories": "400 кКал",
+        "priteins": "6 г",
+        "fats": "20 г",
+        "carbohydrates": "49 г"
+    },
+    {
+        "name": "Мягкие Вафли со Сгущенкой [Яшкино]",
+        "calories": "400 кКал",
+        "priteins": "6 г",
+        "fats": "20 г",
+        "carbohydrates": "50 г"
+    },
+    {
+        "name": "Немецкий Бретцель [Яшкино]",
+        "calories": "410 кКал",
+        "priteins": "9,5 г",
+        "fats": "11 г",
+        "carbohydrates": "69 г"
+    },
+    {
+        "name": "Овсяное Печенье Сдобное [Яшкино]",
+        "calories": "450 кКал",
+        "priteins": "5,5 г",
+        "fats": "18 г",
+        "carbohydrates": "67 г"
+    },
+    {
+        "name": "Оладушки [Яшкино]",
+        "calories": "300 кКал",
+        "priteins": "5 г",
+        "fats": "9 г",
+        "carbohydrates": "50 г"
+    },
+    {
+        "name": "Оладушки с Варёной Сгущёнкой [Яшкино]",
+        "calories": "360 кКал",
+        "priteins": "6 г",
+        "fats": "14 г",
+        "carbohydrates": "52 г"
+    },
+    {
+        "name": "Оладушки с Варёной Сгущёнкой [Яшкино]",
+        "calories": "350 кКал",
+        "priteins": "6 г",
+        "fats": "12 г",
+        "carbohydrates": "55 г"
+    },
+    {
+        "name": "Оладушки с Шоколадной Начинкой [Яшкино]",
+        "calories": "345 кКал",
+        "priteins": "6 г",
+        "fats": "12 г",
+        "carbohydrates": "53 г"
+    },
+    {
+        "name": "Панини с Яблочным Джемом [Яшкино]",
+        "calories": "425 кКал",
+        "priteins": "5,2 г",
+        "fats": "20,2 г",
+        "carbohydrates": "53 г"
+    },
+    {
+        "name": "Печенье [Яшкино]",
+        "calories": "460 кКал",
+        "priteins": "7,5 г",
+        "fats": "17 г",
+        "carbohydrates": "68 г"
+    },
+    {
+        "name": "Печенье Forsite [Яшкино]",
+        "calories": "480 кКал",
+        "priteins": "7 г",
+        "fats": "23 г",
+        "carbohydrates": "63 г"
+    },
+    {
+        "name": "Печенье Forsite Шоколадно-Сливочный Вкус [Яшкино]",
+        "calories": "490 кКал",
+        "priteins": "6,5 г",
+        "fats": "24 г",
+        "carbohydrates": "61 г"
+    },
+    {
+        "name": "Печенье Апельсин [Яшкино]",
+        "calories": "294 кКал",
+        "priteins": "3,5 г",
+        "fats": "4,5 г",
+        "carbohydrates": "60 г"
+    },
+    {
+        "name": "Печенье Вишня [Яшкино]",
+        "calories": "360 кКал",
+        "priteins": "3 г",
+        "fats": "6,5 г",
+        "carbohydrates": "72 г"
+    },
+    {
+        "name": "Печенье Воздушное Суфле [Яшкино]",
+        "calories": "390 кКал",
+        "priteins": "6 г",
+        "fats": "10 г",
+        "carbohydrates": "69 г"
+    },
+    {
+        "name": "Печенье Воздушное Шоколадное [Яшкино]",
+        "calories": "500 кКал",
+        "priteins": "6 г",
+        "fats": "27 г",
+        "carbohydrates": "58 г"
+    },
+    {
+        "name": "Печенье Галета [Яшкино]",
+        "calories": "360 кКал",
+        "priteins": "10 г",
+        "fats": "5,5 г",
+        "carbohydrates": "67 г"
+    },
+    {
+        "name": "Печенье Грановская Кунжутка [Яшкино]",
+        "calories": "540 кКал",
+        "priteins": "11 г",
+        "fats": "34 г",
+        "carbohydrates": "49,2 г"
+    },
+    {
+        "name": "Печенье Дженс [Яшкино]",
+        "calories": "500 кКал",
+        "priteins": "7 г",
+        "fats": "24 г",
+        "carbohydrates": "63 г"
+    },
+    {
+        "name": "Печенье Затяжное [Яшкино]",
+        "calories": "490 кКал",
+        "priteins": "5,5 г",
+        "fats": "23 г",
+        "carbohydrates": "65 г"
+    },
+    {
+        "name": "Печенье Затяжное с Клубничным Кремом [Яшкино]",
+        "calories": "500 кКал",
+        "priteins": "6 г",
+        "fats": "24 г",
+        "carbohydrates": "65 г"
+    },
+    {
+        "name": "Печенье Затяжное со Сливочным Кремом [Яшкино]",
+        "calories": "490 кКал",
+        "priteins": "5,5 г",
+        "fats": "24 г",
+        "carbohydrates": "64 г"
+    },
+    {
+        "name": "Печенье Клубника [Яшкино]",
+        "calories": "295 кКал",
+        "priteins": "3,5 г",
+        "fats": "4 г",
+        "carbohydrates": "61 г"
+    },
+    {
+        "name": "Печенье Клубника Сдобное [Яшкино]",
+        "calories": "370 кКал",
+        "priteins": "3,5 г",
+        "fats": "7,5 г",
+        "carbohydrates": "75 г"
+    },
+    {
+        "name": "Печенье Мария [Яшкино]",
+        "calories": "410 кКал",
+        "priteins": "8 г",
+        "fats": "9,5 г",
+        "carbohydrates": "72 г"
+    },
+    {
+        "name": "Печенье Овсяное [Яшкино]",
+        "calories": "450 кКал",
+        "priteins": "5,5 г",
+        "fats": "18 г",
+        "carbohydrates": "67 г"
+    },
+    {
+        "name": "Печенье Овсяночка [Яшкино]",
+        "calories": "466 кКал",
+        "priteins": "6 г",
+        "fats": "18,3 г",
+        "carbohydrates": "71,3 г"
+    },
+    {
+        "name": "Печенье Полечки [Яшкино]",
+        "calories": "532 кКал",
+        "priteins": "40,2 г",
+        "fats": "55,9 г",
+        "carbohydrates": "59,3 г"
+    },
+    {
+        "name": "Печенье Рок Фор [Яшкино]",
+        "calories": "470 кКал",
+        "priteins": "7,5 г",
+        "fats": "19 г",
+        "carbohydrates": "66 г"
+    },
+    {
+        "name": "Печенье с Клубничным Кремом [Яшкино]",
+        "calories": "490 кКал",
+        "priteins": "5,5 г",
+        "fats": "23 г",
+        "carbohydrates": "64 г"
+    },
+    {
+        "name": "Печенье с Мармеладом [Яшкино]",
+        "calories": "360 кКал",
+        "priteins": "3,5 г",
+        "fats": "7 г",
+        "carbohydrates": "74 г"
+    },
+    {
+        "name": "Печенье с Шоколадными Каплями [Яшкино]",
+        "calories": "455 кКал",
+        "priteins": "5 г",
+        "fats": "20 г",
+        "carbohydrates": "62 г"
+    },
+    {
+        "name": "Печенье Сахарное \"Райский День с Сахаром\" [Яшкино]",
+        "calories": "460 кКал",
+        "priteins": "7 г",
+        "fats": "18 г",
+        "carbohydrates": "67 г"
+    },
+    {
+        "name": "Печенье Сахарное Дивная Даренка [Яшкино]",
+        "calories": "450 кКал",
+        "priteins": "6,6 г",
+        "fats": "19 г",
+        "carbohydrates": "64 г"
+    },
+    {
+        "name": "Печенье Сахарное К Кофе со Вкусом Пломбира [Яшкино]",
+        "calories": "470 кКал",
+        "priteins": "7 г",
+        "fats": "20 г",
+        "carbohydrates": "66 г"
+    },
+    {
+        "name": "Печенье Сахарное Кругляш [Яшкино]",
+        "calories": "440 кКал",
+        "priteins": "5 г",
+        "fats": "15 г",
+        "carbohydrates": "71 г"
+    },
+    {
+        "name": "Печенье Сахарное Рок Фор [Яшкино]",
+        "calories": "460 кКал",
+        "priteins": "7,5 г",
+        "fats": "19 г",
+        "carbohydrates": "65 г"
+    },
+    {
+        "name": "Печенье Сахарное Сливочное [Яшкино]",
+        "calories": "450 кКал",
+        "priteins": "7,5 г",
+        "fats": "17 г",
+        "carbohydrates": "66 г"
+    },
+    {
+        "name": "Печенье Сгущенка [Яшкино]",
+        "calories": "460 кКал",
+        "priteins": "7,2 г",
+        "fats": "18,5 г",
+        "carbohydrates": "64,8 г"
+    },
+    {
+        "name": "Печенье Сдобное «Клубника» [Яшкино]",
+        "calories": "295 кКал",
+        "priteins": "3,5 г",
+        "fats": "4 г",
+        "carbohydrates": "61 г"
+    },
+    {
+        "name": "Печенье Сдобное [Яшкино]",
+        "calories": "480 кКал",
+        "priteins": "7 г",
+        "fats": "24 г",
+        "carbohydrates": "58 г"
+    },
+    {
+        "name": "Печенье Сдобное Американское [Яшкино]",
+        "calories": "480 кКал",
+        "priteins": "5,5 г",
+        "fats": "24 г",
+        "carbohydrates": "60 г"
+    },
+    {
+        "name": "Печенье Сдобное Апельсин [Яшкино]",
+        "calories": "360 кКал",
+        "priteins": "3 г",
+        "fats": "7 г",
+        "carbohydrates": "72 г"
+    },
+    {
+        "name": "Печенье Сдобное Ванильное Кольцо [Яшкино]",
+        "calories": "520 кКал",
+        "priteins": "6,5 г",
+        "fats": "29 г",
+        "carbohydrates": "58 г"
+    },
+    {
+        "name": "Печенье Сдобное Вишня [Яшкино]",
+        "calories": "360 кКал",
+        "priteins": "3 г",
+        "fats": "7 г",
+        "carbohydrates": "72 г"
+    },
+    {
+        "name": "Печенье Сдобное Дженс [Яшкино]",
+        "calories": "480 кКал",
+        "priteins": "7 г",
+        "fats": "24 г",
+        "carbohydrates": "59 г"
+    },
+    {
+        "name": "Печенье Сдобное Клубника [Яшкино]",
+        "calories": "360 кКал",
+        "priteins": "3,5 г",
+        "fats": "6,5 г",
+        "carbohydrates": "72 г"
+    },
+    {
+        "name": "Печенье Сдобное Курабье с Вишневой Начинкой [Яшкино]",
+        "calories": "490 кКал",
+        "priteins": "5,5 г",
+        "fats": "25 г",
+        "carbohydrates": "61 г"
+    },
+    {
+        "name": "Печенье Сдобное Овсяночка [Яшкино]",
+        "calories": "450 кКал",
+        "priteins": "6 г",
+        "fats": "19 г",
+        "carbohydrates": "64 г"
+    },
+    {
+        "name": "Печенье Сдобное с Каплями [Яшкино]",
+        "calories": "480 кКал",
+        "priteins": "5,7 г",
+        "fats": "23 г",
+        "carbohydrates": "62 г"
+    },
+    {
+        "name": "Печенье Сдобное с Кусочками Глазури [Яшкино]",
+        "calories": "480 кКал",
+        "priteins": "5,5 г",
+        "fats": "24 г",
+        "carbohydrates": "60 г"
+    },
+    {
+        "name": "Печенье Сдобное с Цветным Драже [Яшкино]",
+        "calories": "460 кКал",
+        "priteins": "5,5 г",
+        "fats": "20 г",
+        "carbohydrates": "65 г"
+    },
+    {
+        "name": "Печенье Сдобное Шоколадное Курабье [Яшкино]",
+        "calories": "520 кКал",
+        "priteins": "6,5 г",
+        "fats": "30 г",
+        "carbohydrates": "56 г"
+    },
+    {
+        "name": "Печенье Сливочное [Яшкино]",
+        "calories": "460 кКал",
+        "priteins": "7,5 г",
+        "fats": "17 г",
+        "carbohydrates": "68 г"
+    },
+    {
+        "name": "Печенье Слоеное с Начинкой Чёрная Смородина [Яшкино]",
+        "calories": "460 кКал",
+        "priteins": "4 г",
+        "fats": "23 г",
+        "carbohydrates": "59 г"
+    },
+    {
+        "name": "Печенье со Сливочным Вкусом [Яшкино]",
+        "calories": "505 кКал",
+        "priteins": "6,9 г",
+        "fats": "24,4 г",
+        "carbohydrates": "64,7 г"
+    },
+    {
+        "name": "Печенье со Сливочным Кремом [Яшкино]",
+        "calories": "500 кКал",
+        "priteins": "6 г",
+        "fats": "24 г",
+        "carbohydrates": "65 г"
+    },
+    {
+        "name": "Печенье-Сэндвич [Яшкино]",
+        "calories": "500 кКал",
+        "priteins": "7 г",
+        "fats": "24 г",
+        "carbohydrates": "65 г"
+    },
+    {
+        "name": "Полечки с Кокосом [Яшкино]",
+        "calories": "532 кКал",
+        "priteins": "9,5 г",
+        "fats": "31 г",
+        "carbohydrates": "54 г"
+    },
+    {
+        "name": "Пряники [Яшкино]",
+        "calories": "400 кКал",
+        "priteins": "3,5 г",
+        "fats": "13 г",
+        "carbohydrates": "68 г"
+    },
+    {
+        "name": "Пряники в Сахарной Глазури [Яшкино]",
+        "calories": "380 кКал",
+        "priteins": "5 г",
+        "fats": "8 г",
+        "carbohydrates": "73 г"
+    },
+    {
+        "name": "Пряники Классические [Яшкино]",
+        "calories": "360 кКал",
+        "priteins": "5 г",
+        "fats": "3 г",
+        "carbohydrates": "77 г"
+    },
+    {
+        "name": "Пряники Мятные [Яшкино]",
+        "calories": "360 кКал",
+        "priteins": "5 г",
+        "fats": "3 г",
+        "carbohydrates": "77 г"
+    },
+    {
+        "name": "Пряники с Абрикосовой Начинкой [Яшкино]",
+        "calories": "390 кКал",
+        "priteins": "3,7 г",
+        "fats": "10,7 г",
+        "carbohydrates": "70,5 г"
+    },
+    {
+        "name": "Пряники с Варёной Сгущёнкой [Яшкино]",
+        "calories": "420 кКал",
+        "priteins": "4 г",
+        "fats": "14 г",
+        "carbohydrates": "69 г"
+    },
+    {
+        "name": "Пряники с Вишнёвой Начинкой [Яшкино]",
+        "calories": "400 кКал",
+        "priteins": "4 г",
+        "fats": "12 г",
+        "carbohydrates": "69 г"
+    },
+    {
+        "name": "Пряники Шоколадные [Яшкино]",
+        "calories": "380 кКал",
+        "priteins": "5 г",
+        "fats": "7,5 г",
+        "carbohydrates": "72 г"
+    },
+    {
+        "name": "Пряники Шоколадные Воздушные [Яшкино]",
+        "calories": "380 кКал",
+        "priteins": "5 г",
+        "fats": "7 г",
+        "carbohydrates": "73 г"
+    },
+    {
+        "name": "Пшеничная Мука [Яшкино]",
+        "calories": "334 кКал",
+        "priteins": "10,3 г",
+        "fats": "1,1 г",
+        "carbohydrates": "70,6 г"
+    },
+    {
+        "name": "Пышечки в Белой Глазури [Яшкино]",
+        "calories": "435 кКал",
+        "priteins": "6,2 г",
+        "fats": "22 г",
+        "carbohydrates": "53,5 г"
+    },
+    {
+        "name": "Рулет Абрикосовый [Яшкино]",
+        "calories": "387 кКал",
+        "priteins": "6,4 г",
+        "fats": "12 г",
+        "carbohydrates": "63,7 г"
+    },
+    {
+        "name": "Рулет Бисквитный [Яшкино]",
+        "calories": "370 кКал",
+        "priteins": "5 г",
+        "fats": "13 г",
+        "carbohydrates": "58 г"
+    },
+    {
+        "name": "Рулет Вишневый [Яшкино]",
+        "calories": "386 кКал",
+        "priteins": "6,4 г",
+        "fats": "12 г",
+        "carbohydrates": "63,4 г"
+    },
+    {
+        "name": "Рулет Клубничный со Сливками [Яшкино]",
+        "calories": "377 кКал",
+        "priteins": "5,8 г",
+        "fats": "11,1 г",
+        "carbohydrates": "63,6 г"
+    },
+    {
+        "name": "Рулет с Вареной Сгущенкой [Яшкино]",
+        "calories": "350 кКал",
+        "priteins": "6 г",
+        "fats": "11 г",
+        "carbohydrates": "57 г"
+    },
+    {
+        "name": "Рулет Черничный [Яшкино]",
+        "calories": "370 кКал",
+        "priteins": "5 г",
+        "fats": "13 г",
+        "carbohydrates": "58 г"
+    },
+    {
+        "name": "Рулет Шоколадный [Яшкино]",
+        "calories": "390 кКал",
+        "priteins": "6 г",
+        "fats": "16 г",
+        "carbohydrates": "56 г"
+    },
+    {
+        "name": "Суфле [Яшкино]",
+        "calories": "359 кКал",
+        "priteins": "3,9 г",
+        "fats": "12,1 г",
+        "carbohydrates": "61,2 г"
+    },
+    {
+        "name": "Суфле Воздушное [Яшкино]",
+        "calories": "370 кКал",
+        "priteins": "4 г",
+        "fats": "12 г",
+        "carbohydrates": "60 г"
+    },
+    {
+        "name": "Суфле Воздушное Belucci [Яшкино]",
+        "calories": "440 кКал",
+        "priteins": "1,5 г",
+        "fats": "21 г",
+        "carbohydrates": "60 г"
+    },
+    {
+        "name": "Суфле с Клубничным Конфитюром [Яшкино]",
+        "calories": "278 кКал",
+        "priteins": "2,1 г",
+        "fats": "8,8 г",
+        "carbohydrates": "50,2 г"
+    },
+    {
+        "name": "Суфле с Черемухой [Яшкино]",
+        "calories": "430 кКал",
+        "priteins": "3,5 г",
+        "fats": "16 г",
+        "carbohydrates": "69 г"
+    },
+    {
+        "name": "Суфле со Сгущенным Молоком [Яшкино]",
+        "calories": "430 кКал",
+        "priteins": "3,5 г",
+        "fats": "16 г",
+        "carbohydrates": "69 г"
+    },
+    {
+        "name": "Тараллини с Сыром [Яшкино]",
+        "calories": "570 кКал",
+        "priteins": "11 г",
+        "fats": "30 г",
+        "carbohydrates": "64 г"
+    },
+    {
+        "name": "Тёмный Шоколад [Яшкино]",
+        "calories": "520 кКал",
+        "priteins": "6,5 г",
+        "fats": "35 г",
+        "carbohydrates": "44 г"
+    },
+    {
+        "name": "Темный Шоколад с Начинкой Грейпфрут [Яшкино]",
+        "calories": "420 кКал",
+        "priteins": "3 г",
+        "fats": "20 г",
+        "carbohydrates": "57 г"
+    },
+    {
+        "name": "Тёмный Шоколад с Начинкой Трюфель [Яшкино]",
+        "calories": "520 кКал",
+        "priteins": "6,5 г",
+        "fats": "35 г",
+        "carbohydrates": "45 г"
+    },
+    {
+        "name": "Темный Шоколад с Цельным Миндалем [Яшкино]",
+        "calories": "540 кКал",
+        "priteins": "8,5 г",
+        "fats": "39 г",
+        "carbohydrates": "39 г"
+    },
+    {
+        "name": "Торт с Вишневым Джемом и Шоколадным Кремом [Яшкино]",
+        "calories": "420 кКал",
+        "priteins": "6 г",
+        "fats": "19 г",
+        "carbohydrates": "50 г"
+    },
+    {
+        "name": "Торт с Клубничным Джемом и Сливочным Кремом [Яшкино]",
+        "calories": "400 кКал",
+        "priteins": "5,7 г",
+        "fats": "19 г",
+        "carbohydrates": "50 г"
+    },
+    {
+        "name": "Трубочки Вафельные Лесной Орех [Яшкино]",
+        "calories": "506 кКал",
+        "priteins": "7,8 г",
+        "fats": "21,4 г",
+        "carbohydrates": "69 г"
+    },
+    {
+        "name": "Трубочки Вафельные Ореховые [Яшкино]",
+        "calories": "460 кКал",
+        "priteins": "5,5 г",
+        "fats": "22 г",
+        "carbohydrates": "59 г"
+    },
+    {
+        "name": "Форсайт [Яшкино]",
+        "calories": "490 кКал",
+        "priteins": "3,5 г",
+        "fats": "28 г",
+        "carbohydrates": "59 г"
+    },
+    {
+        "name": "Французский Мини Крекер [Яшкино]",
+        "calories": "470 кКал",
+        "priteins": "8 г",
+        "fats": "22 г",
+        "carbohydrates": "60 г"
+    },
+    {
+        "name": "Фруктовые Сердечки [Яшкино]",
+        "calories": "290 кКал",
+        "priteins": "0,5 г",
+        "fats": "0 г",
+        "carbohydrates": "71 г"
+    },
+    {
+        "name": "Фруктовый Поцелуй [Яшкино]",
+        "calories": "310 кКал",
+        "priteins": "2 г",
+        "fats": "0 г",
+        "carbohydrates": "76 г"
+    },
+    {
+        "name": "Фурор [Яшкино]",
+        "calories": "523 кКал",
+        "priteins": "5,3 г",
+        "fats": "26,9 г",
+        "carbohydrates": "65,6 г"
+    },
+    {
+        "name": "Халва Глазированная [Яшкино]",
+        "calories": "528 кКал",
+        "priteins": "14,7 г",
+        "fats": "33 г",
+        "carbohydrates": "44 г"
+    },
+    {
+        "name": "Халва Турецкая [Яшкино]",
+        "calories": "490 кКал",
+        "priteins": "13 г",
+        "fats": "30 г",
+        "carbohydrates": "43 г"
+    },
+    {
+        "name": "Хрустящие Вафли с Варёной Сгущёнкой [Яшкино]",
+        "calories": "530 кКал",
+        "priteins": "5,5 г",
+        "fats": "28 г",
+        "carbohydrates": "64 г"
+    },
+    {
+        "name": "Хрустящие Вафли с Халвой [Яшкино]",
+        "calories": "500 кКал",
+        "priteins": "7,5 г",
+        "fats": "26 г",
+        "carbohydrates": "59 г"
+    },
+    {
+        "name": "Хрустящие Вафли Сливочные [Яшкино]",
+        "calories": "530 кКал",
+        "priteins": "5 г",
+        "fats": "29 г",
+        "carbohydrates": "63 г"
+    },
+    {
+        "name": "Хрустящие Вафли Сливочные [Яшкино]",
+        "calories": "530 кКал",
+        "priteins": "5 г",
+        "fats": "29 г",
+        "carbohydrates": "63 г"
+    },
+    {
+        "name": "Хрустящие Вафли со Вкусом Лимон-Лайм [Яшкино]",
+        "calories": "540 кКал",
+        "priteins": "4,5 г",
+        "fats": "30 г",
+        "carbohydrates": "62 г"
+    },
+    {
+        "name": "Хрустящие Вафли со Сливочным Вкусом [Яшкино]",
+        "calories": "540 кКал",
+        "priteins": "5 г",
+        "fats": "29 г",
+        "carbohydrates": "64 г"
+    },
+    {
+        "name": "Чайное Глазированное Печенье [Яшкино]",
+        "calories": "460 кКал",
+        "priteins": "7 г",
+        "fats": "20 г",
+        "carbohydrates": "65 г"
+    },
+    {
+        "name": "Чио Рио [Яшкино]",
+        "calories": "515 кКал",
+        "priteins": "5 г",
+        "fats": "30 г",
+        "carbohydrates": "57,1 г"
+    },
+    {
+        "name": "Чипсы Картофельные с Солью [Яшкино]",
+        "calories": "510 кКал",
+        "priteins": "6 г",
+        "fats": "32 г",
+        "carbohydrates": "50 г"
+    },
+    {
+        "name": "Шантарель [Яшкино]",
+        "calories": "420 кКал",
+        "priteins": "1,5 г",
+        "fats": "12 г",
+        "carbohydrates": "76 г"
+    },
+    {
+        "name": "Швейцарский Бисквитный Рулет Вишневый [Яшкино]",
+        "calories": "370 кКал",
+        "priteins": "5 г",
+        "fats": "13 г",
+        "carbohydrates": "58 г"
+    },
+    {
+        "name": "Швейцарский Бисквитный Рулет Клубника со Сливками [Яшкино]",
+        "calories": "370 кКал",
+        "priteins": "5 г",
+        "fats": "13 г",
+        "carbohydrates": "58 г"
+    },
+    {
+        "name": "Швейцарский Бисквитный Рулет с Вареной Сгущенкой [Яшкино]",
+        "calories": "350 кКал",
+        "priteins": "5 г",
+        "fats": "11 г",
+        "carbohydrates": "57 г"
+    },
+    {
+        "name": "Шоколад Горький 75% [Яшкино]",
+        "calories": "560 кКал",
+        "priteins": "7,5 г",
+        "fats": "46 г",
+        "carbohydrates": "27 г"
+    },
+    {
+        "name": "Шоколад Молочный с Фундуком и Изюмом [Яшкино]",
+        "calories": "540 кКал",
+        "priteins": "6,5 г",
+        "fats": "35 г",
+        "carbohydrates": "50 г"
+    },
+    {
+        "name": "Шоколад Молочный с Яблоком [Яшкино]",
+        "calories": "500 кКал",
+        "priteins": "5 г",
+        "fats": "26 г",
+        "carbohydrates": "62 г"
+    },
+    {
+        "name": "Шоколадный Батончик [Яшкино]",
+        "calories": "447 кКал",
+        "priteins": "2,6 г",
+        "fats": "16,5 г",
+        "carbohydrates": "73 г"
+    },
+    {
+        "name": "Шоколадный Батончик Импульс [Яшкино]",
+        "calories": "485 кКал",
+        "priteins": "7,2 г",
+        "fats": "24,3 г",
+        "carbohydrates": "59,2 г"
+    },
+    {
+        "name": "Шоколадный Батончик с Грушевой Начинкой [Яшкино]",
+        "calories": "420 кКал",
+        "priteins": "3 г",
+        "fats": "17 г",
+        "carbohydrates": "64 г"
+    },
+    {
+        "name": "Щербет с Изюмом и Арахисом [Яшкино]",
+        "calories": "480 кКал",
+        "priteins": "6 г",
+        "fats": "9 г",
+        "carbohydrates": "75 г"
+    },
+    {
+        "name": "Ярче Семечки в Мягкой Карамели [Яшкино]",
+        "calories": "497 кКал",
+        "priteins": "9,6 г",
+        "fats": "30,5 г",
+        "carbohydrates": "51,2 г"
+    },
+    {
+        "name": "Яшкинская Картошка [Яшкино]",
+        "calories": "537 кКал",
+        "priteins": "6,3 г",
+        "fats": "31,7 г",
+        "carbohydrates": "56,7 г"
+    }
+]

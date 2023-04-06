@@ -1,0 +1,107 @@
+[
+    {
+        "name": "БМТ [Subway (Сабвей)]",
+        "calories": "450 кКал",
+        "priteins": "22 г",
+        "fats": "20 г",
+        "carbohydrates": "47 г"
+    },
+    {
+        "name": "Индейка и Ветчина [Subway (Сабвей)]",
+        "calories": "325 кКал",
+        "priteins": "14 г",
+        "fats": "13,3 г",
+        "carbohydrates": "37 г"
+    },
+    {
+        "name": "Кукис [Subway (Сабвей)]",
+        "calories": "97 кКал",
+        "priteins": "0,9 г",
+        "fats": "4,5 г",
+        "carbohydrates": "13,5 г"
+    },
+    {
+        "name": "Курица Терияки [Subway (Сабвей)]",
+        "calories": "305 кКал",
+        "priteins": "21 г",
+        "fats": "6,4 г",
+        "carbohydrates": "40,5 г"
+    },
+    {
+        "name": "Овощной [Subway (Сабвей)]",
+        "calories": "220 кКал",
+        "priteins": "6,1 г",
+        "fats": "5 г",
+        "carbohydrates": "37,2 г"
+    },
+    {
+        "name": "Ролл с Куриной Грудкой [Subway (Сабвей)]",
+        "calories": "438 кКал",
+        "priteins": "22,8 г",
+        "fats": "9,8 г",
+        "carbohydrates": "64,8 г"
+    },
+    {
+        "name": "Саб Куриная Грудка [Subway (Сабвей)]",
+        "calories": "305 кКал",
+        "priteins": "20,6 г",
+        "fats": "6,3 г",
+        "carbohydrates": "41,2 г"
+    },
+    {
+        "name": "Саб Ростбиф [Subway (Сабвей)]",
+        "calories": "269 кКал",
+        "priteins": "12,4 г",
+        "fats": "7,7 г",
+        "carbohydrates": "37,2 г"
+    },
+    {
+        "name": "Саб с Индейкой [Subway (Сабвей)]",
+        "calories": "280 кКал",
+        "priteins": "18 г",
+        "fats": "3,5 г",
+        "carbohydrates": "47 г"
+    },
+    {
+        "name": "Саб с Тунцом [Subway (Сабвей)]",
+        "calories": "362 кКал",
+        "priteins": "15,6 г",
+        "fats": "15,9 г",
+        "carbohydrates": "38,8 г"
+    },
+    {
+        "name": "Саб с Тунцом [Subway (Сабвей)]",
+        "calories": "362 кКал",
+        "priteins": "15,6 г",
+        "fats": "15,9 г",
+        "carbohydrates": "38,8 г"
+    },
+    {
+        "name": "Салат с Куриной Грудкой [Subway (Сабвей)]",
+        "calories": "117 кКал",
+        "priteins": "15,7 г",
+        "fats": "2,3 г",
+        "carbohydrates": "8,6 г"
+    },
+    {
+        "name": "Сэндвич Курица Терияки [Subway (Сабвей)]",
+        "calories": "380 кКал",
+        "priteins": "26 г",
+        "fats": "5 г",
+        "carbohydrates": "59 г"
+    },
+    {
+        "name": "Сэндвич Острый Итальянский [Subway (Сабвей)]",
+        "calories": "520 кКал",
+        "priteins": "22 г",
+        "fats": "28 г",
+        "carbohydrates": "46 г"
+    },
+    {
+        "name": "Сэндвич с Индейкой и Ветчиной [Subway (Сабвей)]",
+        "calories": "326 кКал",
+        "priteins": "14 г",
+        "fats": "13,3 г",
+        "carbohydrates": "37,2 г"
+    }
+]

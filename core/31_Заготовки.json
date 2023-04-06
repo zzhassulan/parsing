@@ -1,0 +1,163 @@
+[
+    {
+        "name": "Арбуз консервированный",
+        "calories": "36,5 кКал",
+        "priteins": "0,5 г",
+        "fats": "0,09 г",
+        "carbohydrates": "9 г"
+    },
+    {
+        "name": "Брусника маринованная с яблоками",
+        "calories": "53,3 кКал",
+        "priteins": "0,3 г",
+        "fats": "0,3 г",
+        "carbohydrates": "13,2 г"
+    },
+    {
+        "name": "Брусника моченая",
+        "calories": "23,6 кКал",
+        "priteins": "0,3 г",
+        "fats": "0,2 г",
+        "carbohydrates": "5,3 г"
+    },
+    {
+        "name": "Засахаренный кишмиш",
+        "calories": "224,6 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "59,9 г"
+    },
+    {
+        "name": "Икра баклажанная",
+        "calories": "74,3 кКал",
+        "priteins": "1,9 г",
+        "fats": "4,7 г",
+        "carbohydrates": "6,5 г"
+    },
+    {
+        "name": "Икра кабачковая",
+        "calories": "90,8 кКал",
+        "priteins": "1,6 г",
+        "fats": "6,3 г",
+        "carbohydrates": "7,4 г"
+    },
+    {
+        "name": "Икра свекольная или морковная",
+        "calories": "129,5 кКал",
+        "priteins": "2,9 г",
+        "fats": "7,4 г",
+        "carbohydrates": "13,6 г"
+    },
+    {
+        "name": "Икра щучья",
+        "calories": "87,1 кКал",
+        "priteins": "17,3 г",
+        "fats": "2 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Капуста маринованная",
+        "calories": "47 кКал",
+        "priteins": "0,8 г",
+        "fats": "0,05 г",
+        "carbohydrates": "11,5 г"
+    },
+    {
+        "name": "Квашеная капуста",
+        "calories": "27 кКал",
+        "priteins": "1,6 г",
+        "fats": "0,1 г",
+        "carbohydrates": "5,2 г"
+    },
+    {
+        "name": "Маринованная капуста",
+        "calories": "126,6 кКал",
+        "priteins": "1,7 г",
+        "fats": "10 г",
+        "carbohydrates": "8,1 г"
+    },
+    {
+        "name": "Маринованная морская капуста",
+        "calories": "12,5 кКал",
+        "priteins": "0,9 г",
+        "fats": "0,2 г",
+        "carbohydrates": "1,9 г"
+    },
+    {
+        "name": "Маринованная свекла",
+        "calories": "41,6 кКал",
+        "priteins": "1,6 г",
+        "fats": "0,1 г",
+        "carbohydrates": "9,1 г"
+    },
+    {
+        "name": "Маринованные стрелки чеснока",
+        "calories": "29,7 кКал",
+        "priteins": "0,7 г",
+        "fats": "0,03 г",
+        "carbohydrates": "7,1 г"
+    },
+    {
+        "name": "Маринованный крыжовник",
+        "calories": "0 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Маринованный чеснок",
+        "calories": "42,4 кКал",
+        "priteins": "1,8 г",
+        "fats": "0,1 г",
+        "carbohydrates": "9,1 г"
+    },
+    {
+        "name": "Морковь по-корейски",
+        "calories": "112,6 кКал",
+        "priteins": "1,2 г",
+        "fats": "8,2 г",
+        "carbohydrates": "9 г"
+    },
+    {
+        "name": "Морковь по-корейски",
+        "calories": "232,5 кКал",
+        "priteins": "0,9 г",
+        "fats": "23,5 г",
+        "carbohydrates": "4,8 г"
+    },
+    {
+        "name": "Пюре из боярышника",
+        "calories": "29,9 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "8 г"
+    },
+    {
+        "name": "Рольмопс",
+        "calories": "149,6 кКал",
+        "priteins": "7,8 г",
+        "fats": "11,6 г",
+        "carbohydrates": "3,8 г"
+    },
+    {
+        "name": "Слива маринованная",
+        "calories": "63,9 кКал",
+        "priteins": "0,3 г",
+        "fats": "0,1 г",
+        "carbohydrates": "16,5 г"
+    },
+    {
+        "name": "Соленые огурцы",
+        "calories": "11,2 кКал",
+        "priteins": "0,6 г",
+        "fats": "0,08 г",
+        "carbohydrates": "2,2 г"
+    },
+    {
+        "name": "Черника в собственном соку",
+        "calories": "38,3 кКал",
+        "priteins": "1,1 г",
+        "fats": "0,6 г",
+        "carbohydrates": "7,6 г"
+    }
+]

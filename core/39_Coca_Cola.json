@@ -1,0 +1,247 @@
+[
+    {
+        "name": "Aquarius [Coca-Cola]",
+        "calories": "18 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "4,4 г"
+    },
+    {
+        "name": "Aquarius Lemon [Coca-Cola]",
+        "calories": "14 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "3,3 г"
+    },
+    {
+        "name": "Cacaolat [Coca-Cola]",
+        "calories": "40 кКал",
+        "priteins": "2,7 г",
+        "fats": "0,5 г",
+        "carbohydrates": "4,3 г"
+    },
+    {
+        "name": "Cherry (Банка) [Coca-Cola]",
+        "calories": "150 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "42 г"
+    },
+    {
+        "name": "Cherry [Coca-Cola]",
+        "calories": "150 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "42 г"
+    },
+    {
+        "name": "Cherry Zero [Coca-Cola]",
+        "calories": "0 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Cherry без Сахара [Coca-Cola]",
+        "calories": "0 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Coca-Cola",
+        "calories": "42 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "10,6 г"
+    },
+    {
+        "name": "Coca-Cola Cherry без Сахара",
+        "calories": "0 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Coca-Cola Cinnamon",
+        "calories": "0 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Coca-Cola Coffee",
+        "calories": "20 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "5 г"
+    },
+    {
+        "name": "Coca-Cola Energy",
+        "calories": "42 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "10,3 г"
+    },
+    {
+        "name": "Coca-Cola Life",
+        "calories": "90 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "24 г"
+    },
+    {
+        "name": "Coca-Cola Light",
+        "calories": "0 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Coca-Cola Lime",
+        "calories": "43 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "10,6 г"
+    },
+    {
+        "name": "Coca-Cola Orange без Сахара",
+        "calories": "1 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Coca-Cola Zero",
+        "calories": "0 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Coca-Cola Лайм",
+        "calories": "43 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "10,6 г"
+    },
+    {
+        "name": "Energy без Сахара [Coca-Cola]",
+        "calories": "1 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Fanta Apple [Coca-Cola]",
+        "calories": "51 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "13,5 г"
+    },
+    {
+        "name": "Plus Coffee [Coca-Cola]",
+        "calories": "3 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Signature Mixers Smoky [Coca-Cola]",
+        "calories": "43 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "10,6 г"
+    },
+    {
+        "name": "Specialty [Coca-Cola]",
+        "calories": "33 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "8,2 г"
+    },
+    {
+        "name": "Sprite [Coca-Cola]",
+        "calories": "19 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "4,5 г"
+    },
+    {
+        "name": "Sprite Вкус Огурец [Coca-Cola]",
+        "calories": "39 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "9,7 г"
+    },
+    {
+        "name": "Sprite со Вкусом Арбуз-Огурец [Coca-Cola]",
+        "calories": "1 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Vanilla [Coca-Cola]",
+        "calories": "150 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "42 г"
+    },
+    {
+        "name": "Vanilla [Coca-Cola]",
+        "calories": "45 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "11,2 г"
+    },
+    {
+        "name": "Вода [Coca-Cola]",
+        "calories": "0 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Кока-Кола Ванилла [Coca-Cola]",
+        "calories": "45 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "11,2 г"
+    },
+    {
+        "name": "Кока-Кола Зеро [Coca-Cola]",
+        "calories": "0 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Кола [Coca-Cola]",
+        "calories": "42 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "10,6 г"
+    },
+    {
+        "name": "Кола Лайт [Coca-Cola]",
+        "calories": "0 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Напиток [Coca-Cola]",
+        "calories": "42 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "10,6 г"
+    },
+    {
+        "name": "Энергетик [Coca-Cola]",
+        "calories": "1 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    }
+]

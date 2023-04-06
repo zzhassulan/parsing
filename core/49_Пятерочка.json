@@ -1,0 +1,2046 @@
+[
+    {
+        "name": "Cherry Fresh [Пятерочка]",
+        "calories": "45 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "name": "Choco Banana [Пятерочка]",
+        "calories": "368 кКал",
+        "priteins": "9 г",
+        "fats": "9 г",
+        "carbohydrates": "70 г"
+    },
+    {
+        "name": "Easy Смузи [Пятерочка]",
+        "calories": "52 кКал",
+        "priteins": "0,6 г",
+        "fats": "0 г",
+        "carbohydrates": "12,5 г"
+    },
+    {
+        "name": "Energy To Go [Пятерочка]",
+        "calories": "4 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0,5 г"
+    },
+    {
+        "name": "Fresh Bitter Lemon [Пятерочка]",
+        "calories": "47 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "11,6 г"
+    },
+    {
+        "name": "Immuno Lakto Драконий Фрукт [Пятерочка]",
+        "calories": "88 кКал",
+        "priteins": "2,6 г",
+        "fats": "2,5 г",
+        "carbohydrates": "13,9 г"
+    },
+    {
+        "name": "Jake Vitamincandy [Пятерочка]",
+        "calories": "245 кКал",
+        "priteins": "0,5 г",
+        "fats": "0,7 г",
+        "carbohydrates": "88,5 г"
+    },
+    {
+        "name": "Kids Chocolate [Пятерочка]",
+        "calories": "560 кКал",
+        "priteins": "4,6 г",
+        "fats": "36,5 г",
+        "carbohydrates": "53,4 г"
+    },
+    {
+        "name": "Koukou Roukou [Пятерочка]",
+        "calories": "533 кКал",
+        "priteins": "2,8 г",
+        "fats": "31 г",
+        "carbohydrates": "60 г"
+    },
+    {
+        "name": "Абрикос [Пятерочка]",
+        "calories": "44 кКал",
+        "priteins": "0,9 г",
+        "fats": "0,1 г",
+        "carbohydrates": "9 г"
+    },
+    {
+        "name": "Авокадо [Пятерочка]",
+        "calories": "212 кКал",
+        "priteins": "2 г",
+        "fats": "20 г",
+        "carbohydrates": "6 г"
+    },
+    {
+        "name": "Адыгейский Сыр [Пятерочка]",
+        "calories": "220 кКал",
+        "priteins": "19 г",
+        "fats": "16 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Апельсин [Пятерочка]",
+        "calories": "36 кКал",
+        "priteins": "0,9 г",
+        "fats": "0,2 г",
+        "carbohydrates": "8,1 г"
+    },
+    {
+        "name": "Арахис [Пятерочка]",
+        "calories": "610 кКал",
+        "priteins": "30 г",
+        "fats": "50 г",
+        "carbohydrates": "10 г"
+    },
+    {
+        "name": "Арахис в Кокосе [Пятерочка]",
+        "calories": "550 кКал",
+        "priteins": "15 г",
+        "fats": "26 г",
+        "carbohydrates": "56 г"
+    },
+    {
+        "name": "Арахис Жареный Солёный [Пятерочка]",
+        "calories": "608 кКал",
+        "priteins": "26 г",
+        "fats": "50 г",
+        "carbohydrates": "13,4 г"
+    },
+    {
+        "name": "Багет Барра [Пятерочка]",
+        "calories": "288 кКал",
+        "priteins": "10,9 г",
+        "fats": "1,2 г",
+        "carbohydrates": "57 г"
+    },
+    {
+        "name": "Багет Греческий [Пятерочка]",
+        "calories": "280 кКал",
+        "priteins": "8 г",
+        "fats": "13 г",
+        "carbohydrates": "34 г"
+    },
+    {
+        "name": "Багет Испанский [Пятерочка]",
+        "calories": "245 кКал",
+        "priteins": "8,2 г",
+        "fats": "1 г",
+        "carbohydrates": "50 г"
+    },
+    {
+        "name": "Багет Пшенично-Ржаной [Пятерочка]",
+        "calories": "278 кКал",
+        "priteins": "9,3 г",
+        "fats": "5,9 г",
+        "carbohydrates": "46,1 г"
+    },
+    {
+        "name": "Багет Суворовский [Пятерочка]",
+        "calories": "226 кКал",
+        "priteins": "13 г",
+        "fats": "3,5 г",
+        "carbohydrates": "36 г"
+    },
+    {
+        "name": "Багет Традиционный [Пятерочка]",
+        "calories": "267 кКал",
+        "priteins": "8,4 г",
+        "fats": "1,2 г",
+        "carbohydrates": "54,3 г"
+    },
+    {
+        "name": "Багет Французский [Пятерочка]",
+        "calories": "272 кКал",
+        "priteins": "8,3 г",
+        "fats": "2,1 г",
+        "carbohydrates": "54,9 г"
+    },
+    {
+        "name": "Багет Чесночный [Пятерочка]",
+        "calories": "320 кКал",
+        "priteins": "7 г",
+        "fats": "13 г",
+        "carbohydrates": "44 г"
+    },
+    {
+        "name": "Багет Шале Фитнес [Пятерочка]",
+        "calories": "314 кКал",
+        "priteins": "9,5 г",
+        "fats": "1,7 г",
+        "carbohydrates": "68,5 г"
+    },
+    {
+        "name": "Банан [Пятерочка]",
+        "calories": "89 кКал",
+        "priteins": "1,1 г",
+        "fats": "0,3 г",
+        "carbohydrates": "23 г"
+    },
+    {
+        "name": "Батон [Пятерочка]",
+        "calories": "290 кКал",
+        "priteins": "9,5 г",
+        "fats": "2 г",
+        "carbohydrates": "59 г"
+    },
+    {
+        "name": "Батон Нарезной [Пятерочка]",
+        "calories": "260 кКал",
+        "priteins": "7,5 г",
+        "fats": "3 г",
+        "carbohydrates": "51 г"
+    },
+    {
+        "name": "Батончик с Чесноком [Пятерочка]",
+        "calories": "375 кКал",
+        "priteins": "7,9 г",
+        "fats": "4,4 г",
+        "carbohydrates": "48 г"
+    },
+    {
+        "name": "Батончик Сырный [Пятерочка]",
+        "calories": "173 кКал",
+        "priteins": "5,3 г",
+        "fats": "4 г",
+        "carbohydrates": "32 г"
+    },
+    {
+        "name": "Блины Рестория [Пятерочка]",
+        "calories": "246 кКал",
+        "priteins": "5,4 г",
+        "fats": "14,4 г",
+        "carbohydrates": "23,7 г"
+    },
+    {
+        "name": "Блины Творожныеан [Пятерочка]",
+        "calories": "158 кКал",
+        "priteins": "16 г",
+        "fats": "5,4 г",
+        "carbohydrates": "11,6 г"
+    },
+    {
+        "name": "Брецель с Кунжутом [Пятерочка]",
+        "calories": "330 кКал",
+        "priteins": "10 г",
+        "fats": "7,5 г",
+        "carbohydrates": "56 г"
+    },
+    {
+        "name": "Булочка Даллас [Пятерочка]",
+        "calories": "406 кКал",
+        "priteins": "9 г",
+        "fats": "16,9 г",
+        "carbohydrates": "54,5 г"
+    },
+    {
+        "name": "Булочка из Пшеничной Муки с Кунжутом [Пятерочка]",
+        "calories": "274 кКал",
+        "priteins": "8,9 г",
+        "fats": "3,1 г",
+        "carbohydrates": "52,4 г"
+    },
+    {
+        "name": "Булочка Техас [Пятерочка]",
+        "calories": "401 кКал",
+        "priteins": "8,9 г",
+        "fats": "15 г",
+        "carbohydrates": "57,5 г"
+    },
+    {
+        "name": "Бульон из Баранины [Пятерочка]",
+        "calories": "70 кКал",
+        "priteins": "5 г",
+        "fats": "5 г",
+        "carbohydrates": "3 г"
+    },
+    {
+        "name": "Буше Багет Летний [Пятерочка]",
+        "calories": "277 кКал",
+        "priteins": "9,3 г",
+        "fats": "1,6 г",
+        "carbohydrates": "56,5 г"
+    },
+    {
+        "name": "Буше Гипфель с Начинкой Крем [Пятерочка]",
+        "calories": "333 кКал",
+        "priteins": "4,7 г",
+        "fats": "17,5 г",
+        "carbohydrates": "39,1 г"
+    },
+    {
+        "name": "Буше Розан с Яблоком [Пятерочка]",
+        "calories": "257 кКал",
+        "priteins": "3 г",
+        "fats": "12 г",
+        "carbohydrates": "35 г"
+    },
+    {
+        "name": "Буше Турновер с Сыром и Ветчиной [Пятерочка]",
+        "calories": "370 кКал",
+        "priteins": "8,1 г",
+        "fats": "25,5 г",
+        "carbohydrates": "27 г"
+    },
+    {
+        "name": "Буше Хлеб Питерский [Пятерочка]",
+        "calories": "210 кКал",
+        "priteins": "7,4 г",
+        "fats": "1,2 г",
+        "carbohydrates": "42,6 г"
+    },
+    {
+        "name": "Ватрушка К Чаю [Пятерочка]",
+        "calories": "260 кКал",
+        "priteins": "13 г",
+        "fats": "8 г",
+        "carbohydrates": "35 г"
+    },
+    {
+        "name": "Вино [Пятерочка]",
+        "calories": "14 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "3,5 г"
+    },
+    {
+        "name": "Виноград Сушеный Светлый [Пятерочка]",
+        "calories": "296 кКал",
+        "priteins": "2 г",
+        "fats": "0,5 г",
+        "carbohydrates": "72 г"
+    },
+    {
+        "name": "Виноград Тайфи [Пятерочка]",
+        "calories": "65 кКал",
+        "priteins": "0,6 г",
+        "fats": "0,2 г",
+        "carbohydrates": "16,8 г"
+    },
+    {
+        "name": "Гематоген с Витамином с [Пятерочка]",
+        "calories": "250 кКал",
+        "priteins": "7 г",
+        "fats": "3 г",
+        "carbohydrates": "54 г"
+    },
+    {
+        "name": "Геркулес Хлопья Овсяные [Пятерочка]",
+        "calories": "348 кКал",
+        "priteins": "11,5 г",
+        "fats": "3,3 г",
+        "carbohydrates": "64,8 г"
+    },
+    {
+        "name": "Гипфель с Клубникой [Пятерочка]",
+        "calories": "361 кКал",
+        "priteins": "4,7 г",
+        "fats": "17 г",
+        "carbohydrates": "47,2 г"
+    },
+    {
+        "name": "Гипфель с Начинкой Смородина [Пятерочка]",
+        "calories": "347 кКал",
+        "priteins": "5 г",
+        "fats": "17 г",
+        "carbohydrates": "44 г"
+    },
+    {
+        "name": "Грейпфрут [Пятерочка]",
+        "calories": "29 кКал",
+        "priteins": "0,7 г",
+        "fats": "0,2 г",
+        "carbohydrates": "6,5 г"
+    },
+    {
+        "name": "Грейпфрут Свити [Пятерочка]",
+        "calories": "58 кКал",
+        "priteins": "0,7 г",
+        "fats": "0,2 г",
+        "carbohydrates": "9 г"
+    },
+    {
+        "name": "Гречка [Пятерочка]",
+        "calories": "334 кКал",
+        "priteins": "12 г",
+        "fats": "2 г",
+        "carbohydrates": "67 г"
+    },
+    {
+        "name": "Грудка Куриная [Пятерочка]",
+        "calories": "170 кКал",
+        "priteins": "19 г",
+        "fats": "10 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Груша Желтая [Пятерочка]",
+        "calories": "44 кКал",
+        "priteins": "0,4 г",
+        "fats": "0,3 г",
+        "carbohydrates": "10,3 г"
+    },
+    {
+        "name": "Груша Китайская [Пятерочка]",
+        "calories": "42 кКал",
+        "priteins": "0,5 г",
+        "fats": "0,2 г",
+        "carbohydrates": "7,1 г"
+    },
+    {
+        "name": "Груша Конференция [Пятерочка]",
+        "calories": "48 кКал",
+        "priteins": "0,7 г",
+        "fats": "0,9 г",
+        "carbohydrates": "11,7 г"
+    },
+    {
+        "name": "Груша Красная [Пятерочка]",
+        "calories": "58 кКал",
+        "priteins": "0,7 г",
+        "fats": "0,7 г",
+        "carbohydrates": "10 г"
+    },
+    {
+        "name": "Груша Сезонная [Пятерочка]",
+        "calories": "42 кКал",
+        "priteins": "0,4 г",
+        "fats": "0,3 г",
+        "carbohydrates": "10,9 г"
+    },
+    {
+        "name": "Дип из Тунца [Пятерочка]",
+        "calories": "132 кКал",
+        "priteins": "11,7 г",
+        "fats": "8,5 г",
+        "carbohydrates": "1,5 г"
+    },
+    {
+        "name": "Донат [Пятерочка]",
+        "calories": "320 кКал",
+        "priteins": "5,9 г",
+        "fats": "14,4 г",
+        "carbohydrates": "39,3 г"
+    },
+    {
+        "name": "Донат Ореховый [Пятерочка]",
+        "calories": "329 кКал",
+        "priteins": "5 г",
+        "fats": "21 г",
+        "carbohydrates": "31 г"
+    },
+    {
+        "name": "Донат с Клубничной Начинкой [Пятерочка]",
+        "calories": "417 кКал",
+        "priteins": "4,8 г",
+        "fats": "24 г",
+        "carbohydrates": "47 г"
+    },
+    {
+        "name": "Донат с Ореховой Начинкой [Пятерочка]",
+        "calories": "329 кКал",
+        "priteins": "5 г",
+        "fats": "21 г",
+        "carbohydrates": "35 г"
+    },
+    {
+        "name": "Дыня Эфиопка [Пятерочка]",
+        "calories": "34 кКал",
+        "priteins": "0,8 г",
+        "fats": "0,2 г",
+        "carbohydrates": "8 г"
+    },
+    {
+        "name": "Запеканка из Творога [Пятерочка]",
+        "calories": "199 кКал",
+        "priteins": "18 г",
+        "fats": "5,4 г",
+        "carbohydrates": "19,6 г"
+    },
+    {
+        "name": "Запеканка из Творога с Изюмом [Пятерочка]",
+        "calories": "219 кКал",
+        "priteins": "14,2 г",
+        "fats": "2,7 г",
+        "carbohydrates": "34,6 г"
+    },
+    {
+        "name": "Зефир Ванильный [Пятерочка]",
+        "calories": "310 кКал",
+        "priteins": "1 г",
+        "fats": "0 г",
+        "carbohydrates": "81 г"
+    },
+    {
+        "name": "Йогурт [Пятерочка]",
+        "calories": "75 кКал",
+        "priteins": "2,8 г",
+        "fats": "2,5 г",
+        "carbohydrates": "10,2 г"
+    },
+    {
+        "name": "Какао [Пятерочка]",
+        "calories": "370 кКал",
+        "priteins": "5 г",
+        "fats": "2 г",
+        "carbohydrates": "85 г"
+    },
+    {
+        "name": "Капуста Квашеная по-Деревенски [Пятерочка]",
+        "calories": "30 кКал",
+        "priteins": "1,7 г",
+        "fats": "0,1 г",
+        "carbohydrates": "5 г"
+    },
+    {
+        "name": "Кармашек с Грибной Начинкой [Пятерочка]",
+        "calories": "330 кКал",
+        "priteins": "5,7 г",
+        "fats": "20,6 г",
+        "carbohydrates": "30,2 г"
+    },
+    {
+        "name": "Картошка [Пятерочка]",
+        "calories": "76 кКал",
+        "priteins": "2 г",
+        "fats": "0,4 г",
+        "carbohydrates": "16,1 г"
+    },
+    {
+        "name": "Каша Быстрого Приготовления Овсяная с Клубникой [Пятерочка]",
+        "calories": "290 кКал",
+        "priteins": "9,5 г",
+        "fats": "4,5 г",
+        "carbohydrates": "54 г"
+    },
+    {
+        "name": "Каша Овсяная [Пятерочка]",
+        "calories": "299 кКал",
+        "priteins": "9,5 г",
+        "fats": "5 г",
+        "carbohydrates": "54 г"
+    },
+    {
+        "name": "Каша Овсяная с Абрикосом [Пятерочка]",
+        "calories": "310 кКал",
+        "priteins": "10 г",
+        "fats": "5 г",
+        "carbohydrates": "55 г"
+    },
+    {
+        "name": "Кекс Маффин с Ванилином [Пятерочка]",
+        "calories": "426 кКал",
+        "priteins": "5,2 г",
+        "fats": "22,8 г",
+        "carbohydrates": "50 г"
+    },
+    {
+        "name": "Кекс Маффин Шоколадный [Пятерочка]",
+        "calories": "410 кКал",
+        "priteins": "5,5 г",
+        "fats": "22 г",
+        "carbohydrates": "47,5 г"
+    },
+    {
+        "name": "Кета [Пятерочка]",
+        "calories": "184 кКал",
+        "priteins": "24,3 г",
+        "fats": "9,6 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Кефир [Пятерочка]",
+        "calories": "28 кКал",
+        "priteins": "3 г",
+        "fats": "0 г",
+        "carbohydrates": "4 г"
+    },
+    {
+        "name": "Киви [Пятерочка]",
+        "calories": "61 кКал",
+        "priteins": "1,1 г",
+        "fats": "0,5 г",
+        "carbohydrates": "15 г"
+    },
+    {
+        "name": "Колбаска Кондитерская [Пятерочка]",
+        "calories": "300 кКал",
+        "priteins": "5 г",
+        "fats": "13 г",
+        "carbohydrates": "40 г"
+    },
+    {
+        "name": "Конверт с Ветчиной и Сыром [Пятерочка]",
+        "calories": "310 кКал",
+        "priteins": "15 г",
+        "fats": "18 г",
+        "carbohydrates": "22 г"
+    },
+    {
+        "name": "Конвертик с Вишневой Начинкой [Пятерочка]",
+        "calories": "403 кКал",
+        "priteins": "5,2 г",
+        "fats": "19,2 г",
+        "carbohydrates": "52,4 г"
+    },
+    {
+        "name": "Конвертик с Черничной Начинкой [Пятерочка]",
+        "calories": "403 кКал",
+        "priteins": "5 г",
+        "fats": "19 г",
+        "carbohydrates": "52 г"
+    },
+    {
+        "name": "Крабовые Палочки [Пятерочка]",
+        "calories": "97 кКал",
+        "priteins": "5,6 г",
+        "fats": "0,4 г",
+        "carbohydrates": "17,7 г"
+    },
+    {
+        "name": "Креветки Мелкие [Пятерочка]",
+        "calories": "110 кКал",
+        "priteins": "19 г",
+        "fats": "2 г",
+        "carbohydrates": "2,5 г"
+    },
+    {
+        "name": "Круассан с Маслом [Пятерочка]",
+        "calories": "358 кКал",
+        "priteins": "7,6 г",
+        "fats": "17 г",
+        "carbohydrates": "42 г"
+    },
+    {
+        "name": "Круассан с Шоколадно-Ореховой Начинкой [Пятерочка]",
+        "calories": "450 кКал",
+        "priteins": "6 г",
+        "fats": "28 г",
+        "carbohydrates": "46 г"
+    },
+    {
+        "name": "Круассан с Шоколадной Начинкой [Пятерочка]",
+        "calories": "368 кКал",
+        "priteins": "4,5 г",
+        "fats": "22 г",
+        "carbohydrates": "37,9 г"
+    },
+    {
+        "name": "Круассан Сливочный [Пятерочка]",
+        "calories": "340 кКал",
+        "priteins": "8 г",
+        "fats": "20 г",
+        "carbohydrates": "33 г"
+    },
+    {
+        "name": "Крупа Гречневая Ядрица [Пятерочка]",
+        "calories": "329 кКал",
+        "priteins": "12,6 г",
+        "fats": "2,6 г",
+        "carbohydrates": "68 г"
+    },
+    {
+        "name": "Крылья Куриные Гриль [Пятерочка]",
+        "calories": "207 кКал",
+        "priteins": "21,1 г",
+        "fats": "13,6 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Кукурузные Палочки [Пятерочка]",
+        "calories": "470 кКал",
+        "priteins": "6 г",
+        "fats": "14 г",
+        "carbohydrates": "80 г"
+    },
+    {
+        "name": "Курага [Пятерочка]",
+        "calories": "234 кКал",
+        "priteins": "5,2 г",
+        "fats": "0,5 г",
+        "carbohydrates": "55 г"
+    },
+    {
+        "name": "Куриные Пупки Отварные [Пятерочка]",
+        "calories": "81 кКал",
+        "priteins": "14,6 г",
+        "fats": "2,5 г",
+        "carbohydrates": "0,4 г"
+    },
+    {
+        "name": "Курица [Пятерочка]",
+        "calories": "190 кКал",
+        "priteins": "16 г",
+        "fats": "14 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Курица Гриль [Пятерочка]",
+        "calories": "170 кКал",
+        "priteins": "19 г",
+        "fats": "10 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Курник с Курицей и Картофелем [Пятерочка]",
+        "calories": "300 кКал",
+        "priteins": "10,5 г",
+        "fats": "12,5 г",
+        "carbohydrates": "35 г"
+    },
+    {
+        "name": "Лаваш Армянский От Бадалова [Пятерочка]",
+        "calories": "280 кКал",
+        "priteins": "9 г",
+        "fats": "1 г",
+        "carbohydrates": "56 г"
+    },
+    {
+        "name": "Лаваш Армянский Тонкий [Пятерочка]",
+        "calories": "197 кКал",
+        "priteins": "6,3 г",
+        "fats": "0,7 г",
+        "carbohydrates": "40,8 г"
+    },
+    {
+        "name": "Лаваш Тонкий Галстян [Пятерочка]",
+        "calories": "277 кКал",
+        "priteins": "9,3 г",
+        "fats": "0 г",
+        "carbohydrates": "57,6 г"
+    },
+    {
+        "name": "Лепешка с Соусом Песто [Пятерочка]",
+        "calories": "467 кКал",
+        "priteins": "14 г",
+        "fats": "22 г",
+        "carbohydrates": "53 г"
+    },
+    {
+        "name": "Лепешка Узбекская [Пятерочка]",
+        "calories": "217 кКал",
+        "priteins": "12,3 г",
+        "fats": "5,4 г",
+        "carbohydrates": "29,7 г"
+    },
+    {
+        "name": "Лимон [Пятерочка]",
+        "calories": "34 кКал",
+        "priteins": "0,9 г",
+        "fats": "0,1 г",
+        "carbohydrates": "3 г"
+    },
+    {
+        "name": "Лук Красный [Пятерочка]",
+        "calories": "42 кКал",
+        "priteins": "1,4 г",
+        "fats": "0 г",
+        "carbohydrates": "9,1 г"
+    },
+    {
+        "name": "Лук Репчатый [Пятерочка]",
+        "calories": "41 кКал",
+        "priteins": "1,4 г",
+        "fats": "0 г",
+        "carbohydrates": "10,4 г"
+    },
+    {
+        "name": "Льняная Каша [Пятерочка]",
+        "calories": "560 кКал",
+        "priteins": "21 г",
+        "fats": "44 г",
+        "carbohydrates": "12 г"
+    },
+    {
+        "name": "Манго [Пятерочка]",
+        "calories": "60 кКал",
+        "priteins": "0,8 г",
+        "fats": "0,4 г",
+        "carbohydrates": "13,4 г"
+    },
+    {
+        "name": "Манка [Пятерочка]",
+        "calories": "328 кКал",
+        "priteins": "10,3 г",
+        "fats": "1 г",
+        "carbohydrates": "67,4 г"
+    },
+    {
+        "name": "Мармелад [Пятерочка]",
+        "calories": "320 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "81 г"
+    },
+    {
+        "name": "Масло Сливочное [Пятерочка]",
+        "calories": "661 кКал",
+        "priteins": "0,8 г",
+        "fats": "82,5 г",
+        "carbohydrates": "1,3 г"
+    },
+    {
+        "name": "Матнакаш [Пятерочка]",
+        "calories": "225 кКал",
+        "priteins": "8,1 г",
+        "fats": "1 г",
+        "carbohydrates": "46 г"
+    },
+    {
+        "name": "Медальон со Льном [Пятерочка]",
+        "calories": "370 кКал",
+        "priteins": "7,8 г",
+        "fats": "17,1 г",
+        "carbohydrates": "46,4 г"
+    },
+    {
+        "name": "Миндаль Жареный [Пятерочка]",
+        "calories": "640 кКал",
+        "priteins": "19 г",
+        "fats": "55 г",
+        "carbohydrates": "17 г"
+    },
+    {
+        "name": "Мини Багет [Пятерочка]",
+        "calories": "270 кКал",
+        "priteins": "8,4 г",
+        "fats": "1,2 г",
+        "carbohydrates": "54,9 г"
+    },
+    {
+        "name": "Мини Багет с Луком [Пятерочка]",
+        "calories": "263 кКал",
+        "priteins": "8,5 г",
+        "fats": "1,2 г",
+        "carbohydrates": "53,3 г"
+    },
+    {
+        "name": "Мини Багет с Чесночным Маслом [Пятерочка]",
+        "calories": "279 кКал",
+        "priteins": "7 г",
+        "fats": "8,4 г",
+        "carbohydrates": "43 г"
+    },
+    {
+        "name": "Минтай [Пятерочка]",
+        "calories": "72 кКал",
+        "priteins": "15,9 г",
+        "fats": "0,9 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Молоко [Пятерочка]",
+        "calories": "60 кКал",
+        "priteins": "3 г",
+        "fats": "3,2 г",
+        "carbohydrates": "4,7 г"
+    },
+    {
+        "name": "Молоко 2,5% [Пятерочка]",
+        "calories": "53 кКал",
+        "priteins": "3 г",
+        "fats": "2,5 г",
+        "carbohydrates": "4,7 г"
+    },
+    {
+        "name": "Молоко 3,2% [Пятерочка]",
+        "calories": "60 кКал",
+        "priteins": "3 г",
+        "fats": "3,2 г",
+        "carbohydrates": "4,7 г"
+    },
+    {
+        "name": "Мороженое [Пятерочка]",
+        "calories": "180 кКал",
+        "priteins": "4 г",
+        "fats": "8 г",
+        "carbohydrates": "22 г"
+    },
+    {
+        "name": "Нектар Манговый с Мякотью [Пятерочка]",
+        "calories": "48 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "12 г"
+    },
+    {
+        "name": "Нектар Морковно-Яблочный [Пятерочка]",
+        "calories": "20 кКал",
+        "priteins": "0,5 г",
+        "fats": "0 г",
+        "carbohydrates": "5 г"
+    },
+    {
+        "name": "Нектар Морковный с Мякотью [Пятерочка]",
+        "calories": "25 кКал",
+        "priteins": "0,5 г",
+        "fats": "0 г",
+        "carbohydrates": "5,5 г"
+    },
+    {
+        "name": "Нектарин [Пятерочка]",
+        "calories": "44 кКал",
+        "priteins": "1,1 г",
+        "fats": "0,3 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "name": "Овсянка Ан [Пятерочка]",
+        "calories": "103 кКал",
+        "priteins": "4,4 г",
+        "fats": "3,8 г",
+        "carbohydrates": "11,8 г"
+    },
+    {
+        "name": "Овсяное Печенье [Пятерочка]",
+        "calories": "400 кКал",
+        "priteins": "6 г",
+        "fats": "11 г",
+        "carbohydrates": "69 г"
+    },
+    {
+        "name": "Огурец Свежий [Пятерочка]",
+        "calories": "15 кКал",
+        "priteins": "0,8 г",
+        "fats": "0,1 г",
+        "carbohydrates": "2,8 г"
+    },
+    {
+        "name": "Палочка Сырная [Пятерочка]",
+        "calories": "441 кКал",
+        "priteins": "10 г",
+        "fats": "26 г",
+        "carbohydrates": "40 г"
+    },
+    {
+        "name": "Персик [Пятерочка]",
+        "calories": "45 кКал",
+        "priteins": "0,9 г",
+        "fats": "0,1 г",
+        "carbohydrates": "9,5 г"
+    },
+    {
+        "name": "Печенье Roleo [Пятерочка]",
+        "calories": "393 кКал",
+        "priteins": "5 г",
+        "fats": "20 г",
+        "carbohydrates": "72 г"
+    },
+    {
+        "name": "Печенье Кольца [Пятерочка]",
+        "calories": "457 кКал",
+        "priteins": "7,2 г",
+        "fats": "14,3 г",
+        "carbohydrates": "75,1 г"
+    },
+    {
+        "name": "Пирог с Брусникой [Пятерочка]",
+        "calories": "409 кКал",
+        "priteins": "5 г",
+        "fats": "23 г",
+        "carbohydrates": "46 г"
+    },
+    {
+        "name": "Пирог с Капустой и Яйцом [Пятерочка]",
+        "calories": "257 кКал",
+        "priteins": "8 г",
+        "fats": "14 г",
+        "carbohydrates": "25 г"
+    },
+    {
+        "name": "Пирожок Домашний с Картофелем [Пятерочка]",
+        "calories": "118 кКал",
+        "priteins": "3 г",
+        "fats": "1,5 г",
+        "carbohydrates": "23 г"
+    },
+    {
+        "name": "Пирожок Дрожжевой с Черникой [Пятерочка]",
+        "calories": "301 кКал",
+        "priteins": "4,6 г",
+        "fats": "14,1 г",
+        "carbohydrates": "38,5 г"
+    },
+    {
+        "name": "Пирожок с Капустой [Пятерочка]",
+        "calories": "229 кКал",
+        "priteins": "4,9 г",
+        "fats": "6,2 г",
+        "carbohydrates": "38,5 г"
+    },
+    {
+        "name": "Пирожок с Картошкой [Пятерочка]",
+        "calories": "229 кКал",
+        "priteins": "5,2 г",
+        "fats": "7 г",
+        "carbohydrates": "36 г"
+    },
+    {
+        "name": "Пирожок с Мясом/Картофелем [Пятерочка]",
+        "calories": "315 кКал",
+        "priteins": "9,9 г",
+        "fats": "19,6 г",
+        "carbohydrates": "24,8 г"
+    },
+    {
+        "name": "Пирожок с Сосиской [Пятерочка]",
+        "calories": "370 кКал",
+        "priteins": "8 г",
+        "fats": "25 г",
+        "carbohydrates": "27 г"
+    },
+    {
+        "name": "Пицца с Ветчиной [Пятерочка]",
+        "calories": "259 кКал",
+        "priteins": "10 г",
+        "fats": "11 г",
+        "carbohydrates": "30 г"
+    },
+    {
+        "name": "Помело [Пятерочка]",
+        "calories": "32 кКал",
+        "priteins": "0,6 г",
+        "fats": "0,2 г",
+        "carbohydrates": "6,7 г"
+    },
+    {
+        "name": "Помидоры [Пятерочка]",
+        "calories": "20 кКал",
+        "priteins": "1,1 г",
+        "fats": "0,2 г",
+        "carbohydrates": "3,7 г"
+    },
+    {
+        "name": "Пончик [Пятерочка]",
+        "calories": "361 кКал",
+        "priteins": "6,4 г",
+        "fats": "24,5 г",
+        "carbohydrates": "30 г"
+    },
+    {
+        "name": "Пончик Глазированный с Начинкой со Вкусом Шоколада [Пятерочка]",
+        "calories": "320 кКал",
+        "priteins": "5,9 г",
+        "fats": "14,4 г",
+        "carbohydrates": "39,3 г"
+    },
+    {
+        "name": "Пончики Берлинские [Пятерочка]",
+        "calories": "470 кКал",
+        "priteins": "7 г",
+        "fats": "21 г",
+        "carbohydrates": "65 г"
+    },
+    {
+        "name": "Пончики Берлинские с Варёной Сгущёнкой [Пятерочка]",
+        "calories": "460 кКал",
+        "priteins": "7,5 г",
+        "fats": "22 г",
+        "carbohydrates": "58 г"
+    },
+    {
+        "name": "Пончики Берлинские с Шоколадным Муссом [Пятерочка]",
+        "calories": "470 кКал",
+        "priteins": "6,5 г",
+        "fats": "26 г",
+        "carbohydrates": "51 г"
+    },
+    {
+        "name": "Пончики с Кремом \"Берлинские\" [Пятерочка]",
+        "calories": "470 кКал",
+        "priteins": "7 г",
+        "fats": "21 г",
+        "carbohydrates": "65 г"
+    },
+    {
+        "name": "Попкорн [Пятерочка]",
+        "calories": "400 кКал",
+        "priteins": "5 г",
+        "fats": "7 г",
+        "carbohydrates": "70 г"
+    },
+    {
+        "name": "Редис [Пятерочка]",
+        "calories": "19 кКал",
+        "priteins": "1,2 г",
+        "fats": "0,1 г",
+        "carbohydrates": "3,4 г"
+    },
+    {
+        "name": "Ржаной Багет с Чесноком [Пятерочка]",
+        "calories": "300 кКал",
+        "priteins": "6,5 г",
+        "fats": "14 г",
+        "carbohydrates": "45 г"
+    },
+    {
+        "name": "Рис с Курицей и Овощами [Пятерочка]",
+        "calories": "90 кКал",
+        "priteins": "6,6 г",
+        "fats": "3,5 г",
+        "carbohydrates": "8,5 г"
+    },
+    {
+        "name": "Рожок с Сосиской [Пятерочка]",
+        "calories": "270 кКал",
+        "priteins": "7 г",
+        "fats": "14 г",
+        "carbohydrates": "29 г"
+    },
+    {
+        "name": "Розан с Абрикосом [Пятерочка]",
+        "calories": "304 кКал",
+        "priteins": "3,1 г",
+        "fats": "12,5 г",
+        "carbohydrates": "44,6 г"
+    },
+    {
+        "name": "Розан со Смородиной [Пятерочка]",
+        "calories": "289 кКал",
+        "priteins": "3,3 г",
+        "fats": "12,5 г",
+        "carbohydrates": "40,8 г"
+    },
+    {
+        "name": "Рулет Куриный [Пятерочка]",
+        "calories": "228 кКал",
+        "priteins": "24,3 г",
+        "fats": "14 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Салат из Спаржи [Пятерочка]",
+        "calories": "200 кКал",
+        "priteins": "15 г",
+        "fats": "15 г",
+        "carbohydrates": "1 г"
+    },
+    {
+        "name": "Салат Столичный [Пятерочка]",
+        "calories": "210 кКал",
+        "priteins": "5,7 г",
+        "fats": "5,3 г",
+        "carbohydrates": "10,4 г"
+    },
+    {
+        "name": "Самса с Говядиной [Пятерочка]",
+        "calories": "318 кКал",
+        "priteins": "9 г",
+        "fats": "18 г",
+        "carbohydrates": "29 г"
+    },
+    {
+        "name": "Самса с Курицей [Пятерочка]",
+        "calories": "360 кКал",
+        "priteins": "8,5 г",
+        "fats": "17 г",
+        "carbohydrates": "41 г"
+    },
+    {
+        "name": "Самса с Мясом [Пятерочка]",
+        "calories": "235 кКал",
+        "priteins": "8,1 г",
+        "fats": "9,3 г",
+        "carbohydrates": "29,7 г"
+    },
+    {
+        "name": "Сахар [Пятерочка]",
+        "calories": "400 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "100 г"
+    },
+    {
+        "name": "Свекла [Пятерочка]",
+        "calories": "43 кКал",
+        "priteins": "1,5 г",
+        "fats": "0,1 г",
+        "carbohydrates": "8,8 г"
+    },
+    {
+        "name": "Свёкла Сырая [Пятерочка]",
+        "calories": "43 кКал",
+        "priteins": "1,6 г",
+        "fats": "0,2 г",
+        "carbohydrates": "6,8 г"
+    },
+    {
+        "name": "Семга Норвежская [Пятерочка]",
+        "calories": "164 кКал",
+        "priteins": "16,5 г",
+        "fats": "10,9 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Сёмга Слабосолёная [Пятерочка]",
+        "calories": "209 кКал",
+        "priteins": "23 г",
+        "fats": "13 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Семечки [Пятерочка]",
+        "calories": "660 кКал",
+        "priteins": "25,5 г",
+        "fats": "65,3 г",
+        "carbohydrates": "5,8 г"
+    },
+    {
+        "name": "Скумбрия Холодного Копчения [Пятерочка]",
+        "calories": "150 кКал",
+        "priteins": "23,4 г",
+        "fats": "6,4 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Сливы [Пятерочка]",
+        "calories": "42 кКал",
+        "priteins": "0,8 г",
+        "fats": "0,3 г",
+        "carbohydrates": "9,6 г"
+    },
+    {
+        "name": "Слойка Дрожжевая с Вишней [Пятерочка]",
+        "calories": "301 кКал",
+        "priteins": "4,6 г",
+        "fats": "14,1 г",
+        "carbohydrates": "38,5 г"
+    },
+    {
+        "name": "Слойка с Абрикосом [Пятерочка]",
+        "calories": "301 кКал",
+        "priteins": "4,6 г",
+        "fats": "14,1 г",
+        "carbohydrates": "38,5 г"
+    },
+    {
+        "name": "Слойка с Адыгейским Сыром и Зеленью [Пятерочка]",
+        "calories": "280 кКал",
+        "priteins": "13 г",
+        "fats": "9 г",
+        "carbohydrates": "38 г"
+    },
+    {
+        "name": "Слойка с Говядиной [Пятерочка]",
+        "calories": "320 кКал",
+        "priteins": "9 г",
+        "fats": "21 г",
+        "carbohydrates": "24 г"
+    },
+    {
+        "name": "Слойка с Капустой [Пятерочка]",
+        "calories": "337 кКал",
+        "priteins": "5,7 г",
+        "fats": "21 г",
+        "carbohydrates": "30 г"
+    },
+    {
+        "name": "Слойка с Картофельной Начинкой [Пятерочка]",
+        "calories": "293 кКал",
+        "priteins": "4,7 г",
+        "fats": "14,9 г",
+        "carbohydrates": "34,2 г"
+    },
+    {
+        "name": "Слойка с Клубникой [Пятерочка]",
+        "calories": "340 кКал",
+        "priteins": "6 г",
+        "fats": "6 г",
+        "carbohydrates": "64 г"
+    },
+    {
+        "name": "Слойка с Курицей и Грибами [Пятерочка]",
+        "calories": "325 кКал",
+        "priteins": "7,5 г",
+        "fats": "20,5 г",
+        "carbohydrates": "28 г"
+    },
+    {
+        "name": "Слойка с Луком и Яйцом [Пятерочка]",
+        "calories": "390 кКал",
+        "priteins": "10 г",
+        "fats": "14 г",
+        "carbohydrates": "55 г"
+    },
+    {
+        "name": "Слойка с Маком [Пятерочка]",
+        "calories": "390 кКал",
+        "priteins": "5,5 г",
+        "fats": "24 г",
+        "carbohydrates": "37 г"
+    },
+    {
+        "name": "Слойка с Малиной [Пятерочка]",
+        "calories": "270 кКал",
+        "priteins": "4,5 г",
+        "fats": "13 г",
+        "carbohydrates": "30 г"
+    },
+    {
+        "name": "Слойка с Сосиской [Пятерочка]",
+        "calories": "346 кКал",
+        "priteins": "8 г",
+        "fats": "20 г",
+        "carbohydrates": "33,5 г"
+    },
+    {
+        "name": "Слойка с Сырной Начинкой [Пятерочка]",
+        "calories": "390 кКал",
+        "priteins": "10 г",
+        "fats": "23 г",
+        "carbohydrates": "35 г"
+    },
+    {
+        "name": "Слойка с Творогом и Изюмом [Пятерочка]",
+        "calories": "290 кКал",
+        "priteins": "9 г",
+        "fats": "11 г",
+        "carbohydrates": "39 г"
+    },
+    {
+        "name": "Слойка с Яблоком [Пятерочка]",
+        "calories": "290 кКал",
+        "priteins": "3,5 г",
+        "fats": "13 г",
+        "carbohydrates": "39 г"
+    },
+    {
+        "name": "Слойка со Смородиной [Пятерочка]",
+        "calories": "347 кКал",
+        "priteins": "5 г",
+        "fats": "17 г",
+        "carbohydrates": "44 г"
+    },
+    {
+        "name": "Сметана [Пятерочка]",
+        "calories": "160 кКал",
+        "priteins": "2,6 г",
+        "fats": "15 г",
+        "carbohydrates": "3,6 г"
+    },
+    {
+        "name": "Сок [Пятерочка]",
+        "calories": "45 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "name": "Сочень с Творогом [Пятерочка]",
+        "calories": "240 кКал",
+        "priteins": "9 г",
+        "fats": "7 г",
+        "carbohydrates": "34 г"
+    },
+    {
+        "name": "Студень Сытный [Пятерочка]",
+        "calories": "130 кКал",
+        "priteins": "9 г",
+        "fats": "10 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Сухофрукты и Орехи [Пятерочка]",
+        "calories": "590 кКал",
+        "priteins": "13,5 г",
+        "fats": "46,1 г",
+        "carbohydrates": "29,4 г"
+    },
+    {
+        "name": "Сыр Гауда [Пятерочка]",
+        "calories": "356 кКал",
+        "priteins": "25 г",
+        "fats": "27 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Сыр Гауда 45% [Пятерочка]",
+        "calories": "338 кКал",
+        "priteins": "26 г",
+        "fats": "26 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Сыр Голландский Красная Цена [Пятерочка]",
+        "calories": "332 кКал",
+        "priteins": "26,3 г",
+        "fats": "25,2 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Сыр по-Российски Классический [Пятерочка]",
+        "calories": "322 кКал",
+        "priteins": "23 г",
+        "fats": "28 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Сыр Пошехонский [Пятерочка]",
+        "calories": "320 кКал",
+        "priteins": "24,6 г",
+        "fats": "25,2 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Сыр Российский 45% [Пятерочка]",
+        "calories": "330 кКал",
+        "priteins": "24,5 г",
+        "fats": "25,5 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Сыр Российский Красная Цена [Пятерочка]",
+        "calories": "342 кКал",
+        "priteins": "22,5 г",
+        "fats": "28 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Сыр Российский Красная Цена [Пятерочка]",
+        "calories": "342 кКал",
+        "priteins": "22,5 г",
+        "fats": "28 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Сыр Сливочный Город Сыра [Пятерочка]",
+        "calories": "343 кКал",
+        "priteins": "9 г",
+        "fats": "30,8 г",
+        "carbohydrates": "7,5 г"
+    },
+    {
+        "name": "Сыр Творожный \"Свежий\" [Пятерочка]",
+        "calories": "122 кКал",
+        "priteins": "11 г",
+        "fats": "7 г",
+        "carbohydrates": "3,8 г"
+    },
+    {
+        "name": "Сыр Тильзитер [Пятерочка]",
+        "calories": "337 кКал",
+        "priteins": "25 г",
+        "fats": "24 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Сыр Тильзитер Liebendorf [Пятерочка]",
+        "calories": "320 кКал",
+        "priteins": "23 г",
+        "fats": "25 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Сыр Топленое Молоко [Пятерочка]",
+        "calories": "353 кКал",
+        "priteins": "24,2 г",
+        "fats": "24,3 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Сырники [Пятерочка]",
+        "calories": "209 кКал",
+        "priteins": "18,5 г",
+        "fats": "5,7 г",
+        "carbohydrates": "21,4 г"
+    },
+    {
+        "name": "Сырники из Творога Жареные Охлажденные [Пятерочка]",
+        "calories": "214 кКал",
+        "priteins": "13 г",
+        "fats": "8 г",
+        "carbohydrates": "22,5 г"
+    },
+    {
+        "name": "Сырный Продукт [Пятерочка]",
+        "calories": "360 кКал",
+        "priteins": "23 г",
+        "fats": "28 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Сырный Продукт Российский Классический [Пятерочка]",
+        "calories": "323 кКал",
+        "priteins": "22,8 г",
+        "fats": "25,8 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Сырок Творожный [Пятерочка]",
+        "calories": "363 кКал",
+        "priteins": "10 г",
+        "fats": "23 г",
+        "carbohydrates": "29 г"
+    },
+    {
+        "name": "Тарталетки для Икры [Пятерочка]",
+        "calories": "480 кКал",
+        "priteins": "7,5 г",
+        "fats": "25 г",
+        "carbohydrates": "49 г"
+    },
+    {
+        "name": "Твист с Творожно-Лимонной Начинкой [Пятерочка]",
+        "calories": "370 кКал",
+        "priteins": "6,5 г",
+        "fats": "25 г",
+        "carbohydrates": "29 г"
+    },
+    {
+        "name": "Творог 0,5% [Пятерочка]",
+        "calories": "90 кКал",
+        "priteins": "18 г",
+        "fats": "0,5 г",
+        "carbohydrates": "3,3 г"
+    },
+    {
+        "name": "Творог 1,7% [Пятерочка]",
+        "calories": "85 кКал",
+        "priteins": "18 г",
+        "fats": "1,7 г",
+        "carbohydrates": "3,3 г"
+    },
+    {
+        "name": "Творог 1,8% [Пятерочка]",
+        "calories": "93 кКал",
+        "priteins": "18 г",
+        "fats": "1,8 г",
+        "carbohydrates": "1,3 г"
+    },
+    {
+        "name": "Творог 5% [Пятерочка]",
+        "calories": "121 кКал",
+        "priteins": "16 г",
+        "fats": "5 г",
+        "carbohydrates": "3 г"
+    },
+    {
+        "name": "Творог 9% [Пятерочка]",
+        "calories": "160 кКал",
+        "priteins": "16 г",
+        "fats": "9 г",
+        "carbohydrates": "3 г"
+    },
+    {
+        "name": "Творог Обезжиренный [Пятерочка]",
+        "calories": "75 кКал",
+        "priteins": "14 г",
+        "fats": "0,7 г",
+        "carbohydrates": "3,3 г"
+    },
+    {
+        "name": "Творожная Запеканка с Изюмом [Пятерочка]",
+        "calories": "243 кКал",
+        "priteins": "14 г",
+        "fats": "6,9 г",
+        "carbohydrates": "31 г"
+    },
+    {
+        "name": "Томатная Паста [Пятерочка]",
+        "calories": "82 кКал",
+        "priteins": "4,7 г",
+        "fats": "0,4 г",
+        "carbohydrates": "14,9 г"
+    },
+    {
+        "name": "Торнадо Энергетик [Пятерочка]",
+        "calories": "55 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "13,5 г"
+    },
+    {
+        "name": "Треска [Пятерочка]",
+        "calories": "73 кКал",
+        "priteins": "16 г",
+        "fats": "1 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Турновер с Ветчиной и Сыром [Пятерочка]",
+        "calories": "370 кКал",
+        "priteins": "8 г",
+        "fats": "26 г",
+        "carbohydrates": "27 г"
+    },
+    {
+        "name": "Турновер с Картофелем и Грибами [Пятерочка]",
+        "calories": "327 кКал",
+        "priteins": "5 г",
+        "fats": "20 г",
+        "carbohydrates": "32 г"
+    },
+    {
+        "name": "Тыква Баттернат [Пятерочка]",
+        "calories": "45 кКал",
+        "priteins": "1 г",
+        "fats": "0,1 г",
+        "carbohydrates": "9,7 г"
+    },
+    {
+        "name": "Уголок с Творожной Начинкой [Пятерочка]",
+        "calories": "319 кКал",
+        "priteins": "8,5 г",
+        "fats": "12,8 г",
+        "carbohydrates": "42,3 г"
+    },
+    {
+        "name": "Уголок с Яблочной Начинкой [Пятерочка]",
+        "calories": "311 кКал",
+        "priteins": "4,8 г",
+        "fats": "10,5 г",
+        "carbohydrates": "49,1 г"
+    },
+    {
+        "name": "Улитка Греческая с Курицей и Картофелем [Пятерочка]",
+        "calories": "226 кКал",
+        "priteins": "8,7 г",
+        "fats": "6,7 г",
+        "carbohydrates": "32,6 г"
+    },
+    {
+        "name": "Улитка Греческая с Мясом [Пятерочка]",
+        "calories": "345 кКал",
+        "priteins": "8 г",
+        "fats": "18,5 г",
+        "carbohydrates": "35,8 г"
+    },
+    {
+        "name": "Улитка Греческая с Творогом [Пятерочка]",
+        "calories": "338 кКал",
+        "priteins": "8,1 г",
+        "fats": "16,5 г",
+        "carbohydrates": "38,4 г"
+    },
+    {
+        "name": "Улитка Греческая со Шпинатом и Сыром [Пятерочка]",
+        "calories": "248 кКал",
+        "priteins": "7,6 г",
+        "fats": "9,2 г",
+        "carbohydrates": "33,6 г"
+    },
+    {
+        "name": "Улитка Косичка Картофель Бекон Шпинат [Пятерочка]",
+        "calories": "248 кКал",
+        "priteins": "7,6 г",
+        "fats": "9,2 г",
+        "carbohydrates": "33,6 г"
+    },
+    {
+        "name": "Улитка Косичка Курица/Рис/Овощи [Пятерочка]",
+        "calories": "231 кКал",
+        "priteins": "8 г",
+        "fats": "6,5 г",
+        "carbohydrates": "35 г"
+    },
+    {
+        "name": "Улитка Косичка Сыр Картофель Бекон [Пятерочка]",
+        "calories": "230 кКал",
+        "priteins": "9 г",
+        "fats": "7,5 г",
+        "carbohydrates": "31,5 г"
+    },
+    {
+        "name": "Улитка с Изюмом и Заварным Кремом [Пятерочка]",
+        "calories": "315 кКал",
+        "priteins": "5,8 г",
+        "fats": "12 г",
+        "carbohydrates": "44 г"
+    },
+    {
+        "name": "Улитка с Кремом и Корицей [Пятерочка]",
+        "calories": "280 кКал",
+        "priteins": "5,5 г",
+        "fats": "12 г",
+        "carbohydrates": "40 г"
+    },
+    {
+        "name": "Улитка с Повидлом [Пятерочка]",
+        "calories": "240 кКал",
+        "priteins": "9 г",
+        "fats": "7 г",
+        "carbohydrates": "35 г"
+    },
+    {
+        "name": "Улитка с Сыром и Шпинатом [Пятерочка]",
+        "calories": "248 кКал",
+        "priteins": "7,6 г",
+        "fats": "9,2 г",
+        "carbohydrates": "33,6 г"
+    },
+    {
+        "name": "Фаготтини с Клубникой [Пятерочка]",
+        "calories": "376 кКал",
+        "priteins": "6 г",
+        "fats": "13,2 г",
+        "carbohydrates": "58,6 г"
+    },
+    {
+        "name": "Фаготтини с Сыром и Ветчиной [Пятерочка]",
+        "calories": "382 кКал",
+        "priteins": "10,8 г",
+        "fats": "19,4 г",
+        "carbohydrates": "40,4 г"
+    },
+    {
+        "name": "Фарш Говяжий (Рестория) [Пятерочка]",
+        "calories": "255 кКал",
+        "priteins": "12 г",
+        "fats": "23 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Фатир с Луком [Пятерочка]",
+        "calories": "398 кКал",
+        "priteins": "10,5 г",
+        "fats": "6 г",
+        "carbohydrates": "65 г"
+    },
+    {
+        "name": "Филе Грудки [Пятерочка]",
+        "calories": "96 кКал",
+        "priteins": "15 г",
+        "fats": "4 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Финики [Пятерочка]",
+        "calories": "264 кКал",
+        "priteins": "2,3 г",
+        "fats": "0,5 г",
+        "carbohydrates": "71,9 г"
+    },
+    {
+        "name": "Хачапури с Курицей и Грибами [Пятерочка]",
+        "calories": "470 кКал",
+        "priteins": "15 г",
+        "fats": "28 г",
+        "carbohydrates": "40 г"
+    },
+    {
+        "name": "Хачапури с Сыром [Пятерочка]",
+        "calories": "335 кКал",
+        "priteins": "10,1 г",
+        "fats": "19,6 г",
+        "carbohydrates": "28,5 г"
+    },
+    {
+        "name": "Хачапури с Сыром и Ветчиной [Пятерочка]",
+        "calories": "572 кКал",
+        "priteins": "18 г",
+        "fats": "37 г",
+        "carbohydrates": "40 г"
+    },
+    {
+        "name": "Хлеб Sibirien Korn Brot [Пятерочка]",
+        "calories": "228 кКал",
+        "priteins": "6,2 г",
+        "fats": "2,3 г",
+        "carbohydrates": "48,9 г"
+    },
+    {
+        "name": "Хлеб Бабушкин [Пятерочка]",
+        "calories": "234 кКал",
+        "priteins": "7,3 г",
+        "fats": "0,8 г",
+        "carbohydrates": "49,3 г"
+    },
+    {
+        "name": "Хлеб Бородинский Семечко [Пятерочка]",
+        "calories": "305 кКал",
+        "priteins": "5,5 г",
+        "fats": "10,7 г",
+        "carbohydrates": "49,7 г"
+    },
+    {
+        "name": "Хлеб Венский [Пятерочка]",
+        "calories": "214 кКал",
+        "priteins": "12 г",
+        "fats": "1 г",
+        "carbohydrates": "38,5 г"
+    },
+    {
+        "name": "Хлеб Гречишный [Пятерочка]",
+        "calories": "244 кКал",
+        "priteins": "7 г",
+        "fats": "3 г",
+        "carbohydrates": "46 г"
+    },
+    {
+        "name": "Хлеб Даниловский [Пятерочка]",
+        "calories": "280 кКал",
+        "priteins": "9,5 г",
+        "fats": "6 г",
+        "carbohydrates": "46 г"
+    },
+    {
+        "name": "Хлеб Домашний на Молоке [Пятерочка]",
+        "calories": "239 кКал",
+        "priteins": "8 г",
+        "fats": "1 г",
+        "carbohydrates": "50 г"
+    },
+    {
+        "name": "Хлеб Древнерусский [Пятерочка]",
+        "calories": "201 кКал",
+        "priteins": "10 г",
+        "fats": "1 г",
+        "carbohydrates": "38 г"
+    },
+    {
+        "name": "Хлеб Заварной [Пятерочка]",
+        "calories": "248 кКал",
+        "priteins": "6,6 г",
+        "fats": "1 г",
+        "carbohydrates": "51,8 г"
+    },
+    {
+        "name": "Хлеб Зерновой [Пятерочка]",
+        "calories": "274 кКал",
+        "priteins": "9,2 г",
+        "fats": "6,6 г",
+        "carbohydrates": "44,4 г"
+    },
+    {
+        "name": "Хлеб Зерновой Зож [Пятерочка]",
+        "calories": "210 кКал",
+        "priteins": "8,5 г",
+        "fats": "0 г",
+        "carbohydrates": "39 г"
+    },
+    {
+        "name": "Хлеб Зерновой Мультизлаковый со Льном [Пятерочка]",
+        "calories": "228 кКал",
+        "priteins": "6,2 г",
+        "fats": "2,3 г",
+        "carbohydrates": "48,9 г"
+    },
+    {
+        "name": "Хлеб Маисовый [Пятерочка]",
+        "calories": "240 кКал",
+        "priteins": "7,5 г",
+        "fats": "2 г",
+        "carbohydrates": "46 г"
+    },
+    {
+        "name": "Хлеб Отличный с Чесноком [Пятерочка]",
+        "calories": "229 кКал",
+        "priteins": "8,3 г",
+        "fats": "3,3 г",
+        "carbohydrates": "58,8 г"
+    },
+    {
+        "name": "Хлеб Парижский [Пятерочка]",
+        "calories": "300 кКал",
+        "priteins": "10 г",
+        "fats": "4 г",
+        "carbohydrates": "55 г"
+    },
+    {
+        "name": "Хлеб Питерский [Пятерочка]",
+        "calories": "210 кКал",
+        "priteins": "7,4 г",
+        "fats": "1,2 г",
+        "carbohydrates": "42,6 г"
+    },
+    {
+        "name": "Хлеб Пури Грузинский [Пятерочка]",
+        "calories": "220 кКал",
+        "priteins": "8,5 г",
+        "fats": "0,9 г",
+        "carbohydrates": "55,9 г"
+    },
+    {
+        "name": "Хлеб Рустик с Пророщенным Зерном [Пятерочка]",
+        "calories": "210 кКал",
+        "priteins": "6,4 г",
+        "fats": "5,9 г",
+        "carbohydrates": "33 г"
+    },
+    {
+        "name": "Хлеб с Отрубями [Пятерочка]",
+        "calories": "268 кКал",
+        "priteins": "10 г",
+        "fats": "2,7 г",
+        "carbohydrates": "51 г"
+    },
+    {
+        "name": "Хлеб с Семенами Подсолнечника [Пятерочка]",
+        "calories": "269 кКал",
+        "priteins": "7,5 г",
+        "fats": "13 г",
+        "carbohydrates": "30,5 г"
+    },
+    {
+        "name": "Хлеб Фермерский [Пятерочка]",
+        "calories": "200 кКал",
+        "priteins": "6,7 г",
+        "fats": "5,2 г",
+        "carbohydrates": "32,6 г"
+    },
+    {
+        "name": "Хлебушек Чёрный Русский [Пятерочка]",
+        "calories": "260 кКал",
+        "priteins": "8 г",
+        "fats": "2,5 г",
+        "carbohydrates": "50 г"
+    },
+    {
+        "name": "Холодец [Пятерочка]",
+        "calories": "31 кКал",
+        "priteins": "6,3 г",
+        "fats": "0,5 г",
+        "carbohydrates": "0,2 г"
+    },
+    {
+        "name": "Хумус [Пятерочка]",
+        "calories": "345 кКал",
+        "priteins": "16 г",
+        "fats": "25 г",
+        "carbohydrates": "14 г"
+    },
+    {
+        "name": "Хурма [Пятерочка]",
+        "calories": "66 кКал",
+        "priteins": "0,5 г",
+        "fats": "0,3 г",
+        "carbohydrates": "15,3 г"
+    },
+    {
+        "name": "Цыпленок-Гриль [Пятерочка]",
+        "calories": "237 кКал",
+        "priteins": "27 г",
+        "fats": "13,5 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Чебурек [Пятерочка]",
+        "calories": "226 кКал",
+        "priteins": "11 г",
+        "fats": "10 г",
+        "carbohydrates": "23 г"
+    },
+    {
+        "name": "Черешня [Пятерочка]",
+        "calories": "50 кКал",
+        "priteins": "1,1 г",
+        "fats": "0,4 г",
+        "carbohydrates": "11,5 г"
+    },
+    {
+        "name": "Чернослив [Пятерочка]",
+        "calories": "277 кКал",
+        "priteins": "2,3 г",
+        "fats": "0,9 г",
+        "carbohydrates": "67 г"
+    },
+    {
+        "name": "Чернослив Фруктовый Батончик [Пятерочка]",
+        "calories": "200 кКал",
+        "priteins": "2,5 г",
+        "fats": "1 г",
+        "carbohydrates": "48 г"
+    },
+    {
+        "name": "Чеснок [Пятерочка]",
+        "calories": "143 кКал",
+        "priteins": "6,5 г",
+        "fats": "0,5 г",
+        "carbohydrates": "29,9 г"
+    },
+    {
+        "name": "Чиабатта [Пятерочка]",
+        "calories": "269 кКал",
+        "priteins": "9,4 г",
+        "fats": "2,6 г",
+        "carbohydrates": "50,8 г"
+    },
+    {
+        "name": "Чиабатта Классическая [Пятерочка]",
+        "calories": "248 кКал",
+        "priteins": "7,6 г",
+        "fats": "1,2 г",
+        "carbohydrates": "51 г"
+    },
+    {
+        "name": "Чиабатта Солодовая [Пятерочка]",
+        "calories": "255 кКал",
+        "priteins": "8,2 г",
+        "fats": "1,5 г",
+        "carbohydrates": "52,2 г"
+    },
+    {
+        "name": "Чипсы Московский Картофель [Пятерочка]",
+        "calories": "570 кКал",
+        "priteins": "5,5 г",
+        "fats": "40 г",
+        "carbohydrates": "46 г"
+    },
+    {
+        "name": "Шампиньоны [Пятерочка]",
+        "calories": "27 кКал",
+        "priteins": "4,3 г",
+        "fats": "0 г",
+        "carbohydrates": "0,1 г"
+    },
+    {
+        "name": "Штрудель Киви [Пятерочка]",
+        "calories": "410 кКал",
+        "priteins": "5 г",
+        "fats": "30 г",
+        "carbohydrates": "34 г"
+    },
+    {
+        "name": "Элеш с Курицей [Пятерочка]",
+        "calories": "226 кКал",
+        "priteins": "10,9 г",
+        "fats": "11,2 г",
+        "carbohydrates": "20,4 г"
+    },
+    {
+        "name": "Яблоко Голден [Пятерочка]",
+        "calories": "53 кКал",
+        "priteins": "0,5 г",
+        "fats": "0,2 г",
+        "carbohydrates": "10,7 г"
+    },
+    {
+        "name": "Яблоко Красное [Пятерочка]",
+        "calories": "47 кКал",
+        "priteins": "0,4 г",
+        "fats": "0,4 г",
+        "carbohydrates": "9,8 г"
+    },
+    {
+        "name": "Яблоко Роял Гала [Пятерочка]",
+        "calories": "46 кКал",
+        "priteins": "0,4 г",
+        "fats": "0 г",
+        "carbohydrates": "11,2 г"
+    },
+    {
+        "name": "Яблоко Сезонное [Пятерочка]",
+        "calories": "47 кКал",
+        "priteins": "0,4 г",
+        "fats": "0,4 г",
+        "carbohydrates": "9,8 г"
+    },
+    {
+        "name": "Яйца [Пятерочка]",
+        "calories": "157 кКал",
+        "priteins": "12,7 г",
+        "fats": "11,5 г",
+        "carbohydrates": "0,7 г"
+    },
+    {
+        "name": "Ячневая Анна [Пятерочка]",
+        "calories": "63 кКал",
+        "priteins": "2,4 г",
+        "fats": "1,7 г",
+        "carbohydrates": "9,5 г"
+    }
+]

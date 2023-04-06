@@ -1,0 +1,709 @@
+[
+    {
+        "name": "Абрикосовый газированный коктейль",
+        "calories": "36,4 кКал",
+        "priteins": "1 г",
+        "fats": "0,8 г",
+        "carbohydrates": "6,6 г"
+    },
+    {
+        "name": "Абрикосовый гоголь-моголь",
+        "calories": "85,5 кКал",
+        "priteins": "3,1 г",
+        "fats": "2,8 г",
+        "carbohydrates": "12,9 г"
+    },
+    {
+        "name": "Абрикосовый десертный напиток",
+        "calories": "86,1 кКал",
+        "priteins": "0,3 г",
+        "fats": "0,04 г",
+        "carbohydrates": "22,5 г"
+    },
+    {
+        "name": "Абрикосовый коктейль с поплавком",
+        "calories": "70,8 кКал",
+        "priteins": "2,7 г",
+        "fats": "2,7 г",
+        "carbohydrates": "9,4 г"
+    },
+    {
+        "name": "Апельсиновое молоко",
+        "calories": "78,2648 кКал",
+        "priteins": "3,0347 г",
+        "fats": "2,5187 г",
+        "carbohydrates": "10,6881 г"
+    },
+    {
+        "name": "Апельсиновый компот",
+        "calories": "57,2 кКал",
+        "priteins": "0,3 г",
+        "fats": "0,05 г",
+        "carbohydrates": "14,9 г"
+    },
+    {
+        "name": "Бурятский чай",
+        "calories": "94 кКал",
+        "priteins": "0,7 г",
+        "fats": "9,3 г",
+        "carbohydrates": "2,1 г"
+    },
+    {
+        "name": "Горячий абрикосовый напиток",
+        "calories": "53,7 кКал",
+        "priteins": "2,3 г",
+        "fats": "2,6 г",
+        "carbohydrates": "5,6 г"
+    },
+    {
+        "name": "Какао с молоком",
+        "calories": "102,8 кКал",
+        "priteins": "2,9 г",
+        "fats": "2,9 г",
+        "carbohydrates": "17,2 г"
+    },
+    {
+        "name": "Какао с молоком сгущенным",
+        "calories": "86,6 кКал",
+        "priteins": "2,2 г",
+        "fats": "2,4 г",
+        "carbohydrates": "15 г"
+    },
+    {
+        "name": "Квас из ревеня",
+        "calories": "34 кКал",
+        "priteins": "0,2 г",
+        "fats": "0,04 г",
+        "carbohydrates": "8,8 г"
+    },
+    {
+        "name": "Квас клюквенный",
+        "calories": "40,4 кКал",
+        "priteins": "0,1 г",
+        "fats": "0,03 г",
+        "carbohydrates": "10,6 г"
+    },
+    {
+        "name": "Квас по-тобольски",
+        "calories": "35,8 кКал",
+        "priteins": "0,6 г",
+        "fats": "0,1 г",
+        "carbohydrates": "8,6 г"
+    },
+    {
+        "name": "Квас хлебный из экстракта",
+        "calories": "4,3 кКал",
+        "priteins": "0,04 г",
+        "fats": "0,008 г",
+        "carbohydrates": "1,1 г"
+    },
+    {
+        "name": "Квас яблочный",
+        "calories": "36,7 кКал",
+        "priteins": "0,2 г",
+        "fats": "0,09 г",
+        "carbohydrates": "9,4 г"
+    },
+    {
+        "name": "Кефир с ревенем",
+        "calories": "55 кКал",
+        "priteins": "2,1 г",
+        "fats": "2,3 г",
+        "carbohydrates": "6,8 г"
+    },
+    {
+        "name": "Кефир, ацидофилин, простокваша, ряженка",
+        "calories": "55,9 кКал",
+        "priteins": "2,8 г",
+        "fats": "3,2 г",
+        "carbohydrates": "4,1 г"
+    },
+    {
+        "name": "Кисель апельсиновый",
+        "calories": "97,8 кКал",
+        "priteins": "2,7 г",
+        "fats": "2,1 г",
+        "carbohydrates": "18 г"
+    },
+    {
+        "name": "Кисель брусничный",
+        "calories": "75,2 кКал",
+        "priteins": "0,07 г",
+        "fats": "0,05 г",
+        "carbohydrates": "19,9 г"
+    },
+    {
+        "name": "Кисель из абрикосов",
+        "calories": "53,7 кКал",
+        "priteins": "0,1 г",
+        "fats": "0,01 г",
+        "carbohydrates": "14,2 г"
+    },
+    {
+        "name": "Кисель из земляники",
+        "calories": "51,1 кКал",
+        "priteins": "0,08 г",
+        "fats": "0,04 г",
+        "carbohydrates": "13,5 г"
+    },
+    {
+        "name": "Кисель из клюквы (густой)",
+        "calories": "55,4 кКал",
+        "priteins": "0,05 г",
+        "fats": "0,02 г",
+        "carbohydrates": "14,7 г"
+    },
+    {
+        "name": "Кисель из концентрата на плодовых или ягодных экстрактах",
+        "calories": "26,3 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "7 г"
+    },
+    {
+        "name": "Кисель из овсяных хлопьев",
+        "calories": "130,6 кКал",
+        "priteins": "4 г",
+        "fats": "7,5 г",
+        "carbohydrates": "12,6 г"
+    },
+    {
+        "name": "Кисель из плодов и ягод свежих",
+        "calories": "55,2 кКал",
+        "priteins": "0,06 г",
+        "fats": "0,02 г",
+        "carbohydrates": "14,6 г"
+    },
+    {
+        "name": "Кисель из яблок (густой)",
+        "calories": "62,1 кКал",
+        "priteins": "0,09 г",
+        "fats": "0,08 г",
+        "carbohydrates": "16,3 г"
+    },
+    {
+        "name": "Кисель молочный",
+        "calories": "33,5 кКал",
+        "priteins": "0,9 г",
+        "fats": "1 г",
+        "carbohydrates": "5,5 г"
+    },
+    {
+        "name": "Кисель молочный (густой)",
+        "calories": "60,5 кКал",
+        "priteins": "3 г",
+        "fats": "3,3 г",
+        "carbohydrates": "4,9 г"
+    },
+    {
+        "name": "Кисель морковный",
+        "calories": "49,3 кКал",
+        "priteins": "0,3 г",
+        "fats": "0,02 г",
+        "carbohydrates": "12,8 г"
+    },
+    {
+        "name": "Коктейль \"Юпитер\"",
+        "calories": "82,5 кКал",
+        "priteins": "2,5 г",
+        "fats": "4,7 г",
+        "carbohydrates": "8,1 г"
+    },
+    {
+        "name": "Коктейль молочный",
+        "calories": "96,6 кКал",
+        "priteins": "2,9 г",
+        "fats": "4,3 г",
+        "carbohydrates": "12,5 г"
+    },
+    {
+        "name": "Коктейль с креветками",
+        "calories": "57,5 кКал",
+        "priteins": "3,1 г",
+        "fats": "4,5 г",
+        "carbohydrates": "1,2 г"
+    },
+    {
+        "name": "Компот из абрикосов",
+        "calories": "48,4 кКал",
+        "priteins": "0,2 г",
+        "fats": "0,02 г",
+        "carbohydrates": "12,7 г"
+    },
+    {
+        "name": "Компот из айвы",
+        "calories": "72,4 кКал",
+        "priteins": "0,1 г",
+        "fats": "0,1 г",
+        "carbohydrates": "18,9 г"
+    },
+    {
+        "name": "Компот из барбариса",
+        "calories": "111,7 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "29,8 г"
+    },
+    {
+        "name": "Компот из вишни",
+        "calories": "53,5 кКал",
+        "priteins": "0,3 г",
+        "fats": "0,08 г",
+        "carbohydrates": "13,7 г"
+    },
+    {
+        "name": "Компот из моркови",
+        "calories": "34,1 кКал",
+        "priteins": "0,3 г",
+        "fats": "0,02 г",
+        "carbohydrates": "8,8 г"
+    },
+    {
+        "name": "Компот из плодов консервированных 2",
+        "calories": "41,3 кКал",
+        "priteins": "0,3 г",
+        "fats": "0,07 г",
+        "carbohydrates": "10,5 г"
+    },
+    {
+        "name": "Компот из свежих плодов",
+        "calories": "59,1 кКал",
+        "priteins": "0,1 г",
+        "fats": "0,1 г",
+        "carbohydrates": "15,3 г"
+    },
+    {
+        "name": "Компот из свеклы",
+        "calories": "49,2 кКал",
+        "priteins": "1 г",
+        "fats": "0,07 г",
+        "carbohydrates": "11,8 г"
+    },
+    {
+        "name": "Компот из смеси сухофруктов",
+        "calories": "55,6 кКал",
+        "priteins": "0,3 г",
+        "fats": "0 г",
+        "carbohydrates": "14,5 г"
+    },
+    {
+        "name": "Компот из тыквы и ревеня",
+        "calories": "36,5 кКал",
+        "priteins": "0,3 г",
+        "fats": "0,03 г",
+        "carbohydrates": "9,4 г"
+    },
+    {
+        "name": "Компот из черники",
+        "calories": "48,5 кКал",
+        "priteins": "0,4 г",
+        "fats": "0,2 г",
+        "carbohydrates": "12 г"
+    },
+    {
+        "name": "Компот из яблок и слив или из яблок и алычи",
+        "calories": "66,6 кКал",
+        "priteins": "0,2 г",
+        "fats": "0,1 г",
+        "carbohydrates": "17,3 г"
+    },
+    {
+        "name": "Костяничный кисель",
+        "calories": "37,5 кКал",
+        "priteins": "0,003 г",
+        "fats": "0 г",
+        "carbohydrates": "10 г"
+    },
+    {
+        "name": "Кофе на молоке",
+        "calories": "64,1 кКал",
+        "priteins": "1,4 г",
+        "fats": "1,5 г",
+        "carbohydrates": "12,1 г"
+    },
+    {
+        "name": "Кофе на молоке по-варшавски",
+        "calories": "72,5 кКал",
+        "priteins": "2 г",
+        "fats": "3 г",
+        "carbohydrates": "10,2 г"
+    },
+    {
+        "name": "Кофе на молоке сгущенном",
+        "calories": "254,3 кКал",
+        "priteins": "2,3 г",
+        "fats": "2,4 г",
+        "carbohydrates": "59,5 г"
+    },
+    {
+        "name": "Кофе по-восточному",
+        "calories": "61,7 кКал",
+        "priteins": "1,1 г",
+        "fats": "1,2 г",
+        "carbohydrates": "12,5 г"
+    },
+    {
+        "name": "Кофе черный 1-ый вариант (для кофеварки типа \"Экспресс\"",
+        "calories": "202,6 кКал",
+        "priteins": "14 г",
+        "fats": "14,5 г",
+        "carbohydrates": "4,1 г"
+    },
+    {
+        "name": "Кофе черный 2-ой вариант",
+        "calories": "10,7 кКал",
+        "priteins": "0,7 г",
+        "fats": "0,8 г",
+        "carbohydrates": "0,2 г"
+    },
+    {
+        "name": "Кофе черный с мороженым (глясе)",
+        "calories": "111,7 кКал",
+        "priteins": "1,9 г",
+        "fats": "4,1 г",
+        "carbohydrates": "17,9 г"
+    },
+    {
+        "name": "Кофейный холодный напиток",
+        "calories": "131,9 кКал",
+        "priteins": "1,9 г",
+        "fats": "10,9 г",
+        "carbohydrates": "7,1 г"
+    },
+    {
+        "name": "Креольский напиток",
+        "calories": "0 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Крыжовник с кефиром",
+        "calories": "79,5 кКал",
+        "priteins": "3 г",
+        "fats": "4,7 г",
+        "carbohydrates": "6,6 г"
+    },
+    {
+        "name": "Лимонный кисель",
+        "calories": "60,1 кКал",
+        "priteins": "0,06 г",
+        "fats": "0,006 г",
+        "carbohydrates": "16 г"
+    },
+    {
+        "name": "Медовуха \"Зауральская\"",
+        "calories": "64,5 кКал",
+        "priteins": "1 г",
+        "fats": "0,2 г",
+        "carbohydrates": "15,6 г"
+    },
+    {
+        "name": "Молоко кипяченое",
+        "calories": "60,5 кКал",
+        "priteins": "3 г",
+        "fats": "3,3 г",
+        "carbohydrates": "4,9 г"
+    },
+    {
+        "name": "Молочно-абрикосовый коктейль",
+        "calories": "62 кКал",
+        "priteins": "2,7 г",
+        "fats": "2,8 г",
+        "carbohydrates": "7 г"
+    },
+    {
+        "name": "Молочный кисель из моркови",
+        "calories": "60,8 кКал",
+        "priteins": "2 г",
+        "fats": "1,9 г",
+        "carbohydrates": "9,5 г"
+    },
+    {
+        "name": "Молочный напиток с абрикосами",
+        "calories": "125 кКал",
+        "priteins": "1,8 г",
+        "fats": "6,3 г",
+        "carbohydrates": "16,2 г"
+    },
+    {
+        "name": "Морс брусничный",
+        "calories": "41,4 кКал",
+        "priteins": "0,06 г",
+        "fats": "0,04 г",
+        "carbohydrates": "10,9 г"
+    },
+    {
+        "name": "Напиток \"Лесная быль\"",
+        "calories": "67,6 кКал",
+        "priteins": "1,6 г",
+        "fats": "1,4 г",
+        "carbohydrates": "12,8 г"
+    },
+    {
+        "name": "Напиток \"Петровский\"",
+        "calories": "14,9 кКал",
+        "priteins": "0,2 г",
+        "fats": "0,02 г",
+        "carbohydrates": "3,7 г"
+    },
+    {
+        "name": "Напиток \"Фанта\"",
+        "calories": "27,6 кКал",
+        "priteins": "0,1 г",
+        "fats": "0,01 г",
+        "carbohydrates": "7,2 г"
+    },
+    {
+        "name": "Напиток апельсиновый",
+        "calories": "43 кКал",
+        "priteins": "0,03 г",
+        "fats": "0,006 г",
+        "carbohydrates": "11,4 г"
+    },
+    {
+        "name": "Напиток апельсиновый или лимонный",
+        "calories": "41,7 кКал",
+        "priteins": "0,08 г",
+        "fats": "0,02 г",
+        "carbohydrates": "11 г"
+    },
+    {
+        "name": "Напиток из айвы со сливками",
+        "calories": "37,7 кКал",
+        "priteins": "0,2 г",
+        "fats": "0,9 г",
+        "carbohydrates": "7,8 г"
+    },
+    {
+        "name": "Напиток из айвы со сметаной",
+        "calories": "32,7 кКал",
+        "priteins": "0,3 г",
+        "fats": "2,3 г",
+        "carbohydrates": "3 г"
+    },
+    {
+        "name": "Напиток из боярышника",
+        "calories": "30 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "8 г"
+    },
+    {
+        "name": "Напиток из боярышника с овсяным отваром",
+        "calories": "42,4 кКал",
+        "priteins": "0,8 г",
+        "fats": "0,5 г",
+        "carbohydrates": "9,3 г"
+    },
+    {
+        "name": "Напиток из брусники",
+        "calories": "79,6 кКал",
+        "priteins": "0,3 г",
+        "fats": "0,2 г",
+        "carbohydrates": "20,5 г"
+    },
+    {
+        "name": "Напиток из варенья",
+        "calories": "19,4 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "5,2 г"
+    },
+    {
+        "name": "Напиток из вишни с изюмом",
+        "calories": "46,1 кКал",
+        "priteins": "0,7 г",
+        "fats": "0,5 г",
+        "carbohydrates": "10,4 г"
+    },
+    {
+        "name": "Напиток из кураги",
+        "calories": "47,4 кКал",
+        "priteins": "0,4 г",
+        "fats": "0,02 г",
+        "carbohydrates": "12,1 г"
+    },
+    {
+        "name": "Напиток из сиропа",
+        "calories": "0 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Напиток из тыквы",
+        "calories": "39,7 кКал",
+        "priteins": "0,2 г",
+        "fats": "0,02 г",
+        "carbohydrates": "10,3 г"
+    },
+    {
+        "name": "Напиток клюквенный",
+        "calories": "40,3 кКал",
+        "priteins": "0,05 г",
+        "fats": "0,02 г",
+        "carbohydrates": "10,6 г"
+    },
+    {
+        "name": "Напиток Рябинушка",
+        "calories": "41,1 кКал",
+        "priteins": "0,4 г",
+        "fats": "0,05 г",
+        "carbohydrates": "10,4 г"
+    },
+    {
+        "name": "Напиток яблочный",
+        "calories": "42,1 кКал",
+        "priteins": "0,05 г",
+        "fats": "0,05 г",
+        "carbohydrates": "11,1 г"
+    },
+    {
+        "name": "Напиток яблочный с медом",
+        "calories": "70,7 кКал",
+        "priteins": "0,3 г",
+        "fats": "0,1 г",
+        "carbohydrates": "18,3 г"
+    },
+    {
+        "name": "Настой барбарисовый",
+        "calories": "178,7 кКал",
+        "priteins": "0 г",
+        "fats": "0 г",
+        "carbohydrates": "47,7 г"
+    },
+    {
+        "name": "Ногайский чай (карачаево-черкесский национальный напиток)",
+        "calories": "105,4 кКал",
+        "priteins": "2,6 г",
+        "fats": "9,2 г",
+        "carbohydrates": "3,3 г"
+    },
+    {
+        "name": "Отвар из шиповника",
+        "calories": "18,8 кКал",
+        "priteins": "0,3 г",
+        "fats": "0,1 г",
+        "carbohydrates": "4,4 г"
+    },
+    {
+        "name": "Пинемень куслят (кисель овсяный - мордовское национальное блюдо)",
+        "calories": "54,9 кКал",
+        "priteins": "1,6 г",
+        "fats": "0,8 г",
+        "carbohydrates": "11,1 г"
+    },
+    {
+        "name": "Сбитень",
+        "calories": "58,1 кКал",
+        "priteins": "0,2 г",
+        "fats": "0,7 г",
+        "carbohydrates": "13,5 г"
+    },
+    {
+        "name": "Сбитень по Новониколаевски",
+        "calories": "68,7 кКал",
+        "priteins": "0,1 г",
+        "fats": "0,009 г",
+        "carbohydrates": "18,2 г"
+    },
+    {
+        "name": "Студенческий напиток",
+        "calories": "13,9 кКал",
+        "priteins": "1,2 г",
+        "fats": "0,03 г",
+        "carbohydrates": "2,3 г"
+    },
+    {
+        "name": "Тыквенный кисель",
+        "calories": "101,5 кКал",
+        "priteins": "1,9 г",
+        "fats": "5 г",
+        "carbohydrates": "13 г"
+    },
+    {
+        "name": "Хлебный квас",
+        "calories": "27 кКал",
+        "priteins": "0,2 г",
+        "fats": "0 г",
+        "carbohydrates": "5,2 г"
+    },
+    {
+        "name": "Чай брусничный",
+        "calories": "26,4 кКал",
+        "priteins": "0,02 г",
+        "fats": "0,02 г",
+        "carbohydrates": "7 г"
+    },
+    {
+        "name": "Чай из душицы",
+        "calories": "27,1 кКал",
+        "priteins": "0,01 г",
+        "fats": "0 г",
+        "carbohydrates": "7,2 г"
+    },
+    {
+        "name": "Чай рябиновый",
+        "calories": "9,2 кКал",
+        "priteins": "0,3 г",
+        "fats": "0,05 г",
+        "carbohydrates": "2 г"
+    },
+    {
+        "name": "Чай с лимоном",
+        "calories": "41,1 кКал",
+        "priteins": "0,2 г",
+        "fats": "0,05 г",
+        "carbohydrates": "10,6 г"
+    },
+    {
+        "name": "Чай с молоком или сливками",
+        "calories": "52,9 кКал",
+        "priteins": "0,9 г",
+        "fats": "0,8 г",
+        "carbohydrates": "11,3 г"
+    },
+    {
+        "name": "Чай с сахаром, вареньем, джемом, медом, повидлом",
+        "calories": "41,7 кКал",
+        "priteins": "0,2 г",
+        "fats": "0,05 г",
+        "carbohydrates": "10,8 г"
+    },
+    {
+        "name": "Чай с яблоками",
+        "calories": "17,2 кКал",
+        "priteins": "0,3 г",
+        "fats": "0,2 г",
+        "carbohydrates": "3,7 г"
+    },
+    {
+        "name": "Чай фруктовый с абрикосами",
+        "calories": "169,8 кКал",
+        "priteins": "4,7 г",
+        "fats": "0,4 г",
+        "carbohydrates": "39,4 г"
+    },
+    {
+        "name": "Черника с молоком",
+        "calories": "60 кКал",
+        "priteins": "2,2 г",
+        "fats": "2,3 г",
+        "carbohydrates": "8,2 г"
+    },
+    {
+        "name": "Яблочный пунш",
+        "calories": "75 кКал",
+        "priteins": "0,3 г",
+        "fats": "0,3 г",
+        "carbohydrates": "19,1 г"
+    },
+    {
+        "name": "Ягодная наливка",
+        "calories": "124,1 кКал",
+        "priteins": "0,6 г",
+        "fats": "0,4 г",
+        "carbohydrates": "31,6 г"
+    }
+]

@@ -1,0 +1,1346 @@
+[
+    {
+        "name": "Азу из Мяса Индейки [Черкизово]",
+        "calories": "220 кКал",
+        "priteins": "10 г",
+        "fats": "20 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Ассорти Сальчичон и Прошутто [Черкизово]",
+        "calories": "382 кКал",
+        "priteins": "18 г",
+        "fats": "34 г",
+        "carbohydrates": "1 г"
+    },
+    {
+        "name": "Ассорти Сырокопченых Колбас [Черкизово]",
+        "calories": "513 кКал",
+        "priteins": "22 г",
+        "fats": "45 г",
+        "carbohydrates": "5 г"
+    },
+    {
+        "name": "Балык из Куриных Грудок [Черкизово]",
+        "calories": "115 кКал",
+        "priteins": "18 г",
+        "fats": "3 г",
+        "carbohydrates": "4 г"
+    },
+    {
+        "name": "Бастурма из Индейки [Черкизово]",
+        "calories": "220 кКал",
+        "priteins": "46 г",
+        "fats": "3,5 г",
+        "carbohydrates": "1 г"
+    },
+    {
+        "name": "Бекон [Черкизово]",
+        "calories": "252 кКал",
+        "priteins": "15 г",
+        "fats": "20 г",
+        "carbohydrates": "3 г"
+    },
+    {
+        "name": "Бекон по-Английски Охлажденный [Черкизово]",
+        "calories": "353 кКал",
+        "priteins": "14 г",
+        "fats": "33 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Бекон по-Английски Свиной [Черкизово]",
+        "calories": "353 кКал",
+        "priteins": "14 г",
+        "fats": "35 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Бекон Столичный Сырокопчёный [Черкизово]",
+        "calories": "378 кКал",
+        "priteins": "13,5 г",
+        "fats": "36 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Бекон Сырокопченый [Черкизово]",
+        "calories": "373 кКал",
+        "priteins": "13 г",
+        "fats": "40 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Бекон Фермерский [Черкизово]",
+        "calories": "384 кКал",
+        "priteins": "12 г",
+        "fats": "36 г",
+        "carbohydrates": "3 г"
+    },
+    {
+        "name": "Брауншвейгская Колбаса Сырокопченая [Черкизово]",
+        "calories": "445 кКал",
+        "priteins": "24 г",
+        "fats": "37 г",
+        "carbohydrates": "4 г"
+    },
+    {
+        "name": "Буженина [Черкизово]",
+        "calories": "252 кКал",
+        "priteins": "16 г",
+        "fats": "20 г",
+        "carbohydrates": "2 г"
+    },
+    {
+        "name": "Буженина по-Русски [Черкизово]",
+        "calories": "145 кКал",
+        "priteins": "14 г",
+        "fats": "9 г",
+        "carbohydrates": "2 г"
+    },
+    {
+        "name": "Ветчина из Индейки [Черкизово]",
+        "calories": "122 кКал",
+        "priteins": "15 г",
+        "fats": "6 г",
+        "carbohydrates": "2 г"
+    },
+    {
+        "name": "Ветчина Миланская [Черкизово]",
+        "calories": "120 кКал",
+        "priteins": "21,5 г",
+        "fats": "3 г",
+        "carbohydrates": "2 г"
+    },
+    {
+        "name": "Ветчина Мраморная [Черкизово]",
+        "calories": "242 кКал",
+        "priteins": "12 г",
+        "fats": "20 г",
+        "carbohydrates": "4 г"
+    },
+    {
+        "name": "Ветчина Нежная [Черкизово]",
+        "calories": "122 кКал",
+        "priteins": "15 г",
+        "fats": "6 г",
+        "carbohydrates": "2 г"
+    },
+    {
+        "name": "Ветчина по-Черкизовски [Черкизово]",
+        "calories": "236 кКал",
+        "priteins": "11 г",
+        "fats": "20 г",
+        "carbohydrates": "3 г"
+    },
+    {
+        "name": "Ветчина с Индейкой [Черкизово]",
+        "calories": "83 кКал",
+        "priteins": "9 г",
+        "fats": "3 г",
+        "carbohydrates": "5 г"
+    },
+    {
+        "name": "Ветчина со Свиным Окороком [Черкизово]",
+        "calories": "92 кКал",
+        "priteins": "9 г",
+        "fats": "4 г",
+        "carbohydrates": "5 г"
+    },
+    {
+        "name": "Ветчина Тост Хэм [Черкизово]",
+        "calories": "83 кКал",
+        "priteins": "9 г",
+        "fats": "3 г",
+        "carbohydrates": "5 г"
+    },
+    {
+        "name": "Ветчина Швейцарская [Черкизово]",
+        "calories": "110 кКал",
+        "priteins": "18 г",
+        "fats": "3 г",
+        "carbohydrates": "3 г"
+    },
+    {
+        "name": "Вырезка Свиная [Черкизово]",
+        "calories": "135 кКал",
+        "priteins": "18 г",
+        "fats": "7 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Говядина Черкизовская [Черкизово]",
+        "calories": "118 кКал",
+        "priteins": "16 г",
+        "fats": "6 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Грудинка [Черкизово]",
+        "calories": "228 кКал",
+        "priteins": "12 г",
+        "fats": "20 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Грудинка в Маринаде \"по-Домашнему\" [Черкизово]",
+        "calories": "350 кКал",
+        "priteins": "16 г",
+        "fats": "30,5 г",
+        "carbohydrates": "2 г"
+    },
+    {
+        "name": "Грудинка по-Черкизовски [Черкизово]",
+        "calories": "228 кКал",
+        "priteins": "12 г",
+        "fats": "20 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Грудинка Столичная [Черкизово]",
+        "calories": "280 кКал",
+        "priteins": "15 г",
+        "fats": "24 г",
+        "carbohydrates": "1 г"
+    },
+    {
+        "name": "Грудинка Фермерская [Черкизово]",
+        "calories": "248 кКал",
+        "priteins": "15 г",
+        "fats": "20 г",
+        "carbohydrates": "2 г"
+    },
+    {
+        "name": "Гуляш Свиной [Черкизово]",
+        "calories": "371 кКал",
+        "priteins": "14 г",
+        "fats": "35 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Докторская Оригинальная [Черкизово]",
+        "calories": "172 кКал",
+        "priteins": "10 г",
+        "fats": "12 г",
+        "carbohydrates": "6 г"
+    },
+    {
+        "name": "Докторская по-Черкизовски [Черкизово]",
+        "calories": "240 кКал",
+        "priteins": "12 г",
+        "fats": "20 г",
+        "carbohydrates": "3 г"
+    },
+    {
+        "name": "Карбонад Берлинский [Черкизово]",
+        "calories": "140 кКал",
+        "priteins": "19 г",
+        "fats": "6,5 г",
+        "carbohydrates": "2 г"
+    },
+    {
+        "name": "Карбонад в Маринаде [Черкизово]",
+        "calories": "244 кКал",
+        "priteins": "14 г",
+        "fats": "20 г",
+        "carbohydrates": "2 г"
+    },
+    {
+        "name": "Карбонад Кремлевский [Черкизово]",
+        "calories": "96 кКал",
+        "priteins": "15 г",
+        "fats": "4 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Карбонад Свиной [Черкизово]",
+        "calories": "217 кКал",
+        "priteins": "16 г",
+        "fats": "17 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Карбонад Фермерский [Черкизово]",
+        "calories": "121 кКал",
+        "priteins": "15 г",
+        "fats": "5 г",
+        "carbohydrates": "4 г"
+    },
+    {
+        "name": "Карпаччо из Индейки [Черкизово]",
+        "calories": "169 кКал",
+        "priteins": "35 г",
+        "fats": "3 г",
+        "carbohydrates": "0,5 г"
+    },
+    {
+        "name": "Карпаччо из Курицы [Черкизово]",
+        "calories": "170 кКал",
+        "priteins": "38 г",
+        "fats": "2 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Колбаса [Черкизово]",
+        "calories": "292 кКал",
+        "priteins": "15 г",
+        "fats": "24 г",
+        "carbohydrates": "4 г"
+    },
+    {
+        "name": "Колбаса Балыковая [Черкизово]",
+        "calories": "250 кКал",
+        "priteins": "17 г",
+        "fats": "20 г",
+        "carbohydrates": "0,5 г"
+    },
+    {
+        "name": "Колбаса Браунбургская [Черкизово]",
+        "calories": "406 кКал",
+        "priteins": "23 г",
+        "fats": "34 г",
+        "carbohydrates": "2 г"
+    },
+    {
+        "name": "Колбаса Брауншвейгская [Черкизово]",
+        "calories": "537 кКал",
+        "priteins": "15 г",
+        "fats": "53 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Колбаса Вареная Докторская [Черкизово]",
+        "calories": "240 кКал",
+        "priteins": "12 г",
+        "fats": "20 г",
+        "carbohydrates": "3 г"
+    },
+    {
+        "name": "Колбаса Варёная по-Черкизовски [Черкизово]",
+        "calories": "199 кКал",
+        "priteins": "12 г",
+        "fats": "15 г",
+        "carbohydrates": "4 г"
+    },
+    {
+        "name": "Колбаса Вареная Русская [Черкизово]",
+        "calories": "149 кКал",
+        "priteins": "10 г",
+        "fats": "9 г",
+        "carbohydrates": "7 г"
+    },
+    {
+        "name": "Колбаса Вареная Фермерская [Черкизово]",
+        "calories": "233 кКал",
+        "priteins": "10 г",
+        "fats": "19 г",
+        "carbohydrates": "5,5 г"
+    },
+    {
+        "name": "Колбаса Варёно Копченая Сервелат Столичный [Черкизово]",
+        "calories": "382 кКал",
+        "priteins": "12 г",
+        "fats": "34 г",
+        "carbohydrates": "7 г"
+    },
+    {
+        "name": "Колбаса Варено-Копченая Астория [Черкизово]",
+        "calories": "271 кКал",
+        "priteins": "14 г",
+        "fats": "23 г",
+        "carbohydrates": "2 г"
+    },
+    {
+        "name": "Колбаса Ветчинно-Рубленая из Индейки [Черкизово]",
+        "calories": "190 кКал",
+        "priteins": "15 г",
+        "fats": "12 г",
+        "carbohydrates": "5 г"
+    },
+    {
+        "name": "Колбаса Докторская [Черкизово]",
+        "calories": "198 кКал",
+        "priteins": "11 г",
+        "fats": "14 г",
+        "carbohydrates": "7 г"
+    },
+    {
+        "name": "Колбаса Имперская [Черкизово]",
+        "calories": "321 кКал",
+        "priteins": "15 г",
+        "fats": "29 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Колбаса Краковская Традиционная [Черкизово]",
+        "calories": "343 кКал",
+        "priteins": "15 г",
+        "fats": "27 г",
+        "carbohydrates": "10 г"
+    },
+    {
+        "name": "Колбаса Ливерная Украинская с Печенью [Черкизово]",
+        "calories": "277 кКал",
+        "priteins": "10 г",
+        "fats": "21 г",
+        "carbohydrates": "12 г"
+    },
+    {
+        "name": "Колбаса Московская [Черкизово]",
+        "calories": "419 кКал",
+        "priteins": "17 г",
+        "fats": "39 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Колбаса Онежская [Черкизово]",
+        "calories": "450 кКал",
+        "priteins": "22 г",
+        "fats": "38 г",
+        "carbohydrates": "5 г"
+    },
+    {
+        "name": "Колбаса Пеперони [Черкизово]",
+        "calories": "318 кКал",
+        "priteins": "19 г",
+        "fats": "26 г",
+        "carbohydrates": "2 г"
+    },
+    {
+        "name": "Колбаса Полукопчёная Фермерская [Черкизово]",
+        "calories": "282 кКал",
+        "priteins": "11 г",
+        "fats": "22 г",
+        "carbohydrates": "10 г"
+    },
+    {
+        "name": "Колбаса Праздничная в Специях [Черкизово]",
+        "calories": "511 кКал",
+        "priteins": "26 г",
+        "fats": "43 г",
+        "carbohydrates": "5 г"
+    },
+    {
+        "name": "Колбаса Русская [Черкизово]",
+        "calories": "149 кКал",
+        "priteins": "10 г",
+        "fats": "9 г",
+        "carbohydrates": "7 г"
+    },
+    {
+        "name": "Колбаса Русская по-Черкизовски [Черкизово]",
+        "calories": "281 кКал",
+        "priteins": "11 г",
+        "fats": "25 г",
+        "carbohydrates": "3 г"
+    },
+    {
+        "name": "Колбаса Салями Астория [Черкизово]",
+        "calories": "390 кКал",
+        "priteins": "25 г",
+        "fats": "30 г",
+        "carbohydrates": "5 г"
+    },
+    {
+        "name": "Колбаса Свиная [Черкизово]",
+        "calories": "506 кКал",
+        "priteins": "21 г",
+        "fats": "46 г",
+        "carbohydrates": "2 г"
+    },
+    {
+        "name": "Колбаса Сыровяленая Фелино [Черкизово]",
+        "calories": "542 кКал",
+        "priteins": "23 г",
+        "fats": "50 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Колбаса Сыровяленая Фуэт Экстра [Черкизово]",
+        "calories": "397 кКал",
+        "priteins": "26 г",
+        "fats": "29 г",
+        "carbohydrates": "8 г"
+    },
+    {
+        "name": "Колбаса Сырокопченая Богородская [Черкизово]",
+        "calories": "450 кКал",
+        "priteins": "22 г",
+        "fats": "38 г",
+        "carbohydrates": "5 г"
+    },
+    {
+        "name": "Колбаса Сырокопченая Бородинская [Черкизово]",
+        "calories": "450 кКал",
+        "priteins": "22 г",
+        "fats": "38 г",
+        "carbohydrates": "5 г"
+    },
+    {
+        "name": "Колбаса Сырокопченая Деликатесная по-Черкизовски [Черкизово]",
+        "calories": "498 кКал",
+        "priteins": "25 г",
+        "fats": "42 г",
+        "carbohydrates": "5 г"
+    },
+    {
+        "name": "Колбаса Сырокопченая Кремлевская [Черкизово]",
+        "calories": "445 кКал",
+        "priteins": "24 г",
+        "fats": "37 г",
+        "carbohydrates": "4 г"
+    },
+    {
+        "name": "Колбаса Сырокопченая Онежская [Черкизово]",
+        "calories": "405 кКал",
+        "priteins": "23 г",
+        "fats": "33 г",
+        "carbohydrates": "4 г"
+    },
+    {
+        "name": "Колбаса Сырокопченая Посольская [Черкизово]",
+        "calories": "421 кКал",
+        "priteins": "20 г",
+        "fats": "37 г",
+        "carbohydrates": "2 г"
+    },
+    {
+        "name": "Колбаса Сырокопченая Преображенская [Черкизово]",
+        "calories": "450 кКал",
+        "priteins": "22 г",
+        "fats": "38 г",
+        "carbohydrates": "5 г"
+    },
+    {
+        "name": "Колбаса Сырокопченая Салямини [Черкизово]",
+        "calories": "450 кКал",
+        "priteins": "23 г",
+        "fats": "38 г",
+        "carbohydrates": "4 г"
+    },
+    {
+        "name": "Колбаса Сырокопченая Свиная Черкизовская [Черкизово]",
+        "calories": "506 кКал",
+        "priteins": "21 г",
+        "fats": "46 г",
+        "carbohydrates": "2 г"
+    },
+    {
+        "name": "Колбаса Чесночная [Черкизово]",
+        "calories": "248 кКал",
+        "priteins": "12 г",
+        "fats": "20 г",
+        "carbohydrates": "5 г"
+    },
+    {
+        "name": "Колбаски «для Жарки» со Вкусом Сыра [Черкизово]",
+        "calories": "298 кКал",
+        "priteins": "14 г",
+        "fats": "26 г",
+        "carbohydrates": "2 г"
+    },
+    {
+        "name": "Колбаски Печеночные [Черкизово]",
+        "calories": "260 кКал",
+        "priteins": "11 г",
+        "fats": "20 г",
+        "carbohydrates": "9 г"
+    },
+    {
+        "name": "Колбаски по-Домашнему с Чесноком [Черкизово]",
+        "calories": "306 кКал",
+        "priteins": "14 г",
+        "fats": "26 г",
+        "carbohydrates": "4 г"
+    },
+    {
+        "name": "Колбаски Рубленые \"для Жарки\" [Черкизово]",
+        "calories": "296 кКал",
+        "priteins": "15 г",
+        "fats": "26 г",
+        "carbohydrates": "2 г"
+    },
+    {
+        "name": "Колбаски Рубленые из Свинины и Говядины [Черкизово]",
+        "calories": "276 кКал",
+        "priteins": "15 г",
+        "fats": "24 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Колбаски с Копчёным Беконом [Черкизово]",
+        "calories": "284 кКал",
+        "priteins": "14 г",
+        "fats": "24 г",
+        "carbohydrates": "3 г"
+    },
+    {
+        "name": "Корейка [Черкизово]",
+        "calories": "121 кКал",
+        "priteins": "15 г",
+        "fats": "5 г",
+        "carbohydrates": "4 г"
+    },
+    {
+        "name": "Корейка по-Домашнему [Черкизово]",
+        "calories": "196 кКал",
+        "priteins": "13 г",
+        "fats": "16 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Корейка по-Черкизовски [Черкизово]",
+        "calories": "151 кКал",
+        "priteins": "17 г",
+        "fats": "7 г",
+        "carbohydrates": "4 г"
+    },
+    {
+        "name": "Корейка Столичная [Черкизово]",
+        "calories": "214 кКал",
+        "priteins": "13 г",
+        "fats": "18 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Корейка Фермерская [Черкизово]",
+        "calories": "121 кКал",
+        "priteins": "15 г",
+        "fats": "5 г",
+        "carbohydrates": "4 г"
+    },
+    {
+        "name": "Котлета на Косточке Свиная [Черкизово]",
+        "calories": "258 кКал",
+        "priteins": "15 г",
+        "fats": "22 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Котлеты Домашние [Черкизово]",
+        "calories": "281 кКал",
+        "priteins": "14 г",
+        "fats": "25 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Котлеты из Говядины Охлажденные [Черкизово]",
+        "calories": "144 кКал",
+        "priteins": "17 г",
+        "fats": "8 г",
+        "carbohydrates": "1 г"
+    },
+    {
+        "name": "Котлеты Рубленые из Говядины [Черкизово]",
+        "calories": "330 кКал",
+        "priteins": "15 г",
+        "fats": "30 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Котлеты Рубленые из Свинины и Говядины [Черкизово]",
+        "calories": "348 кКал",
+        "priteins": "15 г",
+        "fats": "32 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Котлеты Рубленые с Белыми Грибами [Черкизово]",
+        "calories": "258 кКал",
+        "priteins": "15 г",
+        "fats": "22 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Котлеты Рубленые с Сыром [Черкизово]",
+        "calories": "335 кКал",
+        "priteins": "14 г",
+        "fats": "33 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Котлеты со Сладким Перцем [Черкизово]",
+        "calories": "276 кКал",
+        "priteins": "11 г",
+        "fats": "24 г",
+        "carbohydrates": "4 г"
+    },
+    {
+        "name": "Купаты [Черкизово]",
+        "calories": "310 кКал",
+        "priteins": "15 г",
+        "fats": "26 г",
+        "carbohydrates": "4 г"
+    },
+    {
+        "name": "Купаты для Гриля [Черкизово]",
+        "calories": "202 кКал",
+        "priteins": "15 г",
+        "fats": "14 г",
+        "carbohydrates": "4 г"
+    },
+    {
+        "name": "Купаты с Луком [Черкизово]",
+        "calories": "373 кКал",
+        "priteins": "15 г",
+        "fats": "33 г",
+        "carbohydrates": "4 г"
+    },
+    {
+        "name": "Купаты с Сыром [Черкизово]",
+        "calories": "343 кКал",
+        "priteins": "13 г",
+        "fats": "31 г",
+        "carbohydrates": "3 г"
+    },
+    {
+        "name": "Лопатка в Пряном Соусе с Яблоками [Черкизово]",
+        "calories": "180 кКал",
+        "priteins": "16 г",
+        "fats": "12 г",
+        "carbohydrates": "2 г"
+    },
+    {
+        "name": "Лопатка В Чесночном Маринаде Для Запекания [Черкизово]",
+        "calories": "119 кКал",
+        "priteins": "12 г",
+        "fats": "7 г",
+        "carbohydrates": "2 г"
+    },
+    {
+        "name": "Лопатка по-Черкизовски [Черкизово]",
+        "calories": "143 кКал",
+        "priteins": "16 г",
+        "fats": "7 г",
+        "carbohydrates": "4 г"
+    },
+    {
+        "name": "Лопатка Свиная [Черкизово]",
+        "calories": "203 кКал",
+        "priteins": "17 г",
+        "fats": "15 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Лопатка Столичная [Черкизово]",
+        "calories": "113 кКал",
+        "priteins": "13 г",
+        "fats": "5 г",
+        "carbohydrates": "4 г"
+    },
+    {
+        "name": "Лопатка Фермерская [Черкизово]",
+        "calories": "113 кКал",
+        "priteins": "13 г",
+        "fats": "5 г",
+        "carbohydrates": "4 г"
+    },
+    {
+        "name": "Медальоны из Свиной Вырезки [Черкизово]",
+        "calories": "135 кКал",
+        "priteins": "18 г",
+        "fats": "7 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Молочная Колбаса [Черкизово]",
+        "calories": "281 кКал",
+        "priteins": "11 г",
+        "fats": "25 г",
+        "carbohydrates": "3 г"
+    },
+    {
+        "name": "Мясной Орех из Куриных Грудок [Черкизово]",
+        "calories": "123 кКал",
+        "priteins": "15 г",
+        "fats": "7 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Мясной Снек Классический [Черкизово]",
+        "calories": "294 кКал",
+        "priteins": "36 г",
+        "fats": "14 г",
+        "carbohydrates": "6 г"
+    },
+    {
+        "name": "Окорок в Маринаде [Черкизово]",
+        "calories": "270 кКал",
+        "priteins": "16 г",
+        "fats": "22 г",
+        "carbohydrates": "2 г"
+    },
+    {
+        "name": "Окорок по-Тамбовски [Черкизово]",
+        "calories": "265 кКал",
+        "priteins": "18 г",
+        "fats": "21 г",
+        "carbohydrates": "1 г"
+    },
+    {
+        "name": "Окорок Свиной Охлажденный [Черкизово]",
+        "calories": "130 кКал",
+        "priteins": "19 г",
+        "fats": "6 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Паштет [Черкизово]",
+        "calories": "229 кКал",
+        "priteins": "11 г",
+        "fats": "17 г",
+        "carbohydrates": "8 г"
+    },
+    {
+        "name": "Паштет Нежный с Грибами [Черкизово]",
+        "calories": "309 кКал",
+        "priteins": "10 г",
+        "fats": "29 г",
+        "carbohydrates": "2 г"
+    },
+    {
+        "name": "Поджарка Свиная [Черкизово]",
+        "calories": "303 кКал",
+        "priteins": "15 г",
+        "fats": "27 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Прошутто [Черкизово]",
+        "calories": "366 кКал",
+        "priteins": "22 г",
+        "fats": "30 г",
+        "carbohydrates": "2 г"
+    },
+    {
+        "name": "Рёбрышки \"Сытные\" для Запекания [Черкизово]",
+        "calories": "416 кКал",
+        "priteins": "13 г",
+        "fats": "40 г",
+        "carbohydrates": "1 г"
+    },
+    {
+        "name": "Рёбрышки в Маринаде \"Аппетитные\" [Черкизово]",
+        "calories": "292 кКал",
+        "priteins": "17 г",
+        "fats": "24 г",
+        "carbohydrates": "2 г"
+    },
+    {
+        "name": "Рёбрышки в Маринаде [Черкизово]",
+        "calories": "220 кКал",
+        "priteins": "19 г",
+        "fats": "14,5 г",
+        "carbohydrates": "3,5 г"
+    },
+    {
+        "name": "Рёбрышки Деликатесные [Черкизово]",
+        "calories": "233 кКал",
+        "priteins": "20 г",
+        "fats": "17 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Ребрышки из Корейки Свиные [Черкизово]",
+        "calories": "223 кКал",
+        "priteins": "13 г",
+        "fats": "19 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Ребрышки по-Бельгийски [Черкизово]",
+        "calories": "220 кКал",
+        "priteins": "17 г",
+        "fats": "15,5 г",
+        "carbohydrates": "3 г"
+    },
+    {
+        "name": "Рёбрышки по-Бельгийски в Шоколадно-Пивном Соусе [Черкизово]",
+        "calories": "219 кКал",
+        "priteins": "17 г",
+        "fats": "15,5 г",
+        "carbohydrates": "3 г"
+    },
+    {
+        "name": "Рулет из Индейки Варено-Копченый [Черкизово]",
+        "calories": "90 кКал",
+        "priteins": "18 г",
+        "fats": "1,5 г",
+        "carbohydrates": "4 г"
+    },
+    {
+        "name": "Рулет по-Царски [Черкизово]",
+        "calories": "340 кКал",
+        "priteins": "12 г",
+        "fats": "32 г",
+        "carbohydrates": "1 г"
+    },
+    {
+        "name": "Рулька в Пиве по-Немецки [Черкизово]",
+        "calories": "140 кКал",
+        "priteins": "16 г",
+        "fats": "7 г",
+        "carbohydrates": "3 г"
+    },
+    {
+        "name": "Рулька в Специях [Черкизово]",
+        "calories": "375 кКал",
+        "priteins": "13 г",
+        "fats": "35 г",
+        "carbohydrates": "2 г"
+    },
+    {
+        "name": "Рулька Свиная [Черкизово]",
+        "calories": "322 кКал",
+        "priteins": "13 г",
+        "fats": "30 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Сальчичон [Черкизово]",
+        "calories": "351 кКал",
+        "priteins": "17 г",
+        "fats": "31 г",
+        "carbohydrates": "1 г"
+    },
+    {
+        "name": "Сальчичон Колбаса Сырокопченая [Черкизово]",
+        "calories": "366 кКал",
+        "priteins": "17 г",
+        "fats": "34 г",
+        "carbohydrates": "1 г"
+    },
+    {
+        "name": "Сальчичон с Розовым Перцем [Черкизово]",
+        "calories": "322 кКал",
+        "priteins": "28 г",
+        "fats": "22 г",
+        "carbohydrates": "3 г"
+    },
+    {
+        "name": "Салями [Черкизово]",
+        "calories": "450 кКал",
+        "priteins": "23 г",
+        "fats": "38 г",
+        "carbohydrates": "4 г"
+    },
+    {
+        "name": "Салями из Индейки [Черкизово]",
+        "calories": "388 кКал",
+        "priteins": "27 г",
+        "fats": "28 г",
+        "carbohydrates": "7 г"
+    },
+    {
+        "name": "Салями по-Черкизовски [Черкизово]",
+        "calories": "434 кКал",
+        "priteins": "25 г",
+        "fats": "34 г",
+        "carbohydrates": "7 г"
+    },
+    {
+        "name": "Салями Фламенко [Черкизово]",
+        "calories": "416 кКал",
+        "priteins": "22 г",
+        "fats": "35 г",
+        "carbohydrates": "4 г"
+    },
+    {
+        "name": "Сардельки Сытные [Черкизово]",
+        "calories": "196 кКал",
+        "priteins": "10 г",
+        "fats": "12 г",
+        "carbohydrates": "12 г"
+    },
+    {
+        "name": "Свинина для Жарки [Черкизово]",
+        "calories": "363 кКал",
+        "priteins": "12 г",
+        "fats": "35 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Свинина Домашняя в Специях [Черкизово]",
+        "calories": "521 кКал",
+        "priteins": "11 г",
+        "fats": "53 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Свинина Фермерская [Черкизово]",
+        "calories": "100 кКал",
+        "priteins": "16 г",
+        "fats": "4 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Сервелат Астория [Черкизово]",
+        "calories": "239 кКал",
+        "priteins": "13 г",
+        "fats": "19 г",
+        "carbohydrates": "4 г"
+    },
+    {
+        "name": "Сервелат Венский [Черкизово]",
+        "calories": "207 кКал",
+        "priteins": "10 г",
+        "fats": "15 г",
+        "carbohydrates": "8 г"
+    },
+    {
+        "name": "Сервелат Гост [Черкизово]",
+        "calories": "487 кКал",
+        "priteins": "16 г",
+        "fats": "47 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Сервилат Премиум [Черкизово]",
+        "calories": "487 кКал",
+        "priteins": "16 г",
+        "fats": "47 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Снек из Индейки [Черкизово]",
+        "calories": "308 кКал",
+        "priteins": "35 г",
+        "fats": "16 г",
+        "carbohydrates": "6 г"
+    },
+    {
+        "name": "Снек из Курицы [Черкизово]",
+        "calories": "281 кКал",
+        "priteins": "36 г",
+        "fats": "13 г",
+        "carbohydrates": "5 г"
+    },
+    {
+        "name": "Сосиска Молочная [Черкизово]",
+        "calories": "249 кКал",
+        "priteins": "10 г",
+        "fats": "21 г",
+        "carbohydrates": "5 г"
+    },
+    {
+        "name": "Сосиски Аппетитные Классические [Черкизово]",
+        "calories": "216 кКал",
+        "priteins": "10 г",
+        "fats": "16 г",
+        "carbohydrates": "8 г"
+    },
+    {
+        "name": "Сосиски Венские [Черкизово]",
+        "calories": "239 кКал",
+        "priteins": "11 г",
+        "fats": "19 г",
+        "carbohydrates": "6 г"
+    },
+    {
+        "name": "Сосиски Докторские [Черкизово]",
+        "calories": "204 кКал",
+        "priteins": "10,5 г",
+        "fats": "18 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Сосиски Докторские Пмо [Черкизово]",
+        "calories": "225 кКал",
+        "priteins": "10 г",
+        "fats": "17 г",
+        "carbohydrates": "8 г"
+    },
+    {
+        "name": "Сосиски Классические со Свининой ПМО [Черкизово]",
+        "calories": "193 кКал",
+        "priteins": "11 г",
+        "fats": "13 г",
+        "carbohydrates": "8 г"
+    },
+    {
+        "name": "Сосиски Копчёные по-Черкизовски [Черкизово]",
+        "calories": "226 кКал",
+        "priteins": "11 г",
+        "fats": "18 г",
+        "carbohydrates": "5 г"
+    },
+    {
+        "name": "Сосиски Кремлёвские [Черкизово]",
+        "calories": "248 кКал",
+        "priteins": "12 г",
+        "fats": "20 г",
+        "carbohydrates": "5 г"
+    },
+    {
+        "name": "Сосиски Куриные [Черкизово]",
+        "calories": "180 кКал",
+        "priteins": "12 г",
+        "fats": "12 г",
+        "carbohydrates": "6 г"
+    },
+    {
+        "name": "Сосиски Молочные [Черкизово]",
+        "calories": "296 кКал",
+        "priteins": "11 г",
+        "fats": "28 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Сосиски Молочные Гост [Черкизово]",
+        "calories": "296 кКал",
+        "priteins": "11 г",
+        "fats": "28 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Сосиски Молочные Оригинальные [Черкизово]",
+        "calories": "176 кКал",
+        "priteins": "10 г",
+        "fats": "12 г",
+        "carbohydrates": "7 г"
+    },
+    {
+        "name": "Сосиски Молочные по-Черкизовски [Черкизово]",
+        "calories": "249 кКал",
+        "priteins": "10 г",
+        "fats": "21 г",
+        "carbohydrates": "5 г"
+    },
+    {
+        "name": "Сосиски Мясные по-Черкизовски [Черкизово]",
+        "calories": "287 кКал",
+        "priteins": "12 г",
+        "fats": "25 г",
+        "carbohydrates": "3,5 г"
+    },
+    {
+        "name": "Сосиски Особенные с Говядиной [Черкизово]",
+        "calories": "270 кКал",
+        "priteins": "11 г",
+        "fats": "22 г",
+        "carbohydrates": "7 г"
+    },
+    {
+        "name": "Сосиски Румяные [Черкизово]",
+        "calories": "293 кКал",
+        "priteins": "13 г",
+        "fats": "25 г",
+        "carbohydrates": "4 г"
+    },
+    {
+        "name": "Сосиски Сливочные [Черкизово]",
+        "calories": "211 кКал",
+        "priteins": "10 г",
+        "fats": "19 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Сосиски Сливочные по-Черкизовски [Черкизово]",
+        "calories": "249 кКал",
+        "priteins": "10 г",
+        "fats": "21 г",
+        "carbohydrates": "5 г"
+    },
+    {
+        "name": "Сосиски Фермерские [Черкизово]",
+        "calories": "187 кКал",
+        "priteins": "9,5 г",
+        "fats": "13 г",
+        "carbohydrates": "8 г"
+    },
+    {
+        "name": "Стейк из Корейки [Черкизово]",
+        "calories": "143 кКал",
+        "priteins": "20 г",
+        "fats": "7 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Стейк из Шейки в Сливочно-Чесночном Маринаде [Черкизово]",
+        "calories": "256 кКал",
+        "priteins": "17 г",
+        "fats": "20 г",
+        "carbohydrates": "2 г"
+    },
+    {
+        "name": "Стейк из Шейки Свиной [Черкизово]",
+        "calories": "290 кКал",
+        "priteins": "14 г",
+        "fats": "26 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Стейк Свиной на Косточке Чалагач [Черкизово]",
+        "calories": "175 кКал",
+        "priteins": "19 г",
+        "fats": "11 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Суджук Армянский с Коньяком [Черкизово]",
+        "calories": "549 кКал",
+        "priteins": "27 г",
+        "fats": "49 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Уши Свиные с Чесноком [Черкизово]",
+        "calories": "219 кКал",
+        "priteins": "19 г",
+        "fats": "15 г",
+        "carbohydrates": "2 г"
+    },
+    {
+        "name": "Фарш Говяжий [Черкизово]",
+        "calories": "230 кКал",
+        "priteins": "17 г",
+        "fats": "18 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Фарш Деревенский [Черкизово]",
+        "calories": "290 кКал",
+        "priteins": "14 г",
+        "fats": "26 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Фарш Домашний [Черкизово]",
+        "calories": "303 кКал",
+        "priteins": "15 г",
+        "fats": "27 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Фарш Свиной [Черкизово]",
+        "calories": "363 кКал",
+        "priteins": "12 г",
+        "fats": "35 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Фермерская Корейка [Черкизово]",
+        "calories": "121 кКал",
+        "priteins": "15 г",
+        "fats": "5 г",
+        "carbohydrates": "4 г"
+    },
+    {
+        "name": "Филе Малое Грудки Индейки [Черкизово]",
+        "calories": "130 кКал",
+        "priteins": "22,5 г",
+        "fats": "4 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Фрикадельки Домашние [Черкизово]",
+        "calories": "363 кКал",
+        "priteins": "12 г",
+        "fats": "35 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Фрикадельки Классические [Черкизово]",
+        "calories": "144 кКал",
+        "priteins": "17 г",
+        "fats": "8 г",
+        "carbohydrates": "1 г"
+    },
+    {
+        "name": "Фрикадельки Классические из Говядины [Черкизово]",
+        "calories": "218 кКал",
+        "priteins": "13 г",
+        "fats": "18 г",
+        "carbohydrates": "1 г"
+    },
+    {
+        "name": "Шашлык из Вырезки Свиной [Черкизово]",
+        "calories": "138 кКал",
+        "priteins": "20 г",
+        "fats": "6 г",
+        "carbohydrates": "1 г"
+    },
+    {
+        "name": "Шашлык Классический [Черкизово]",
+        "calories": "146 кКал",
+        "priteins": "14 г",
+        "fats": "10 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Шашлык по-Деревенски [Черкизово]",
+        "calories": "168 кКал",
+        "priteins": "12 г",
+        "fats": "12 г",
+        "carbohydrates": "3 г"
+    },
+    {
+        "name": "Шейка Брюссельская [Черкизово]",
+        "calories": "230 кКал",
+        "priteins": "18,5 г",
+        "fats": "16,5 г",
+        "carbohydrates": "2 г"
+    },
+    {
+        "name": "Шейка в Маринаде для Запекания [Черкизово]",
+        "calories": "379 кКал",
+        "priteins": "14 г",
+        "fats": "35 г",
+        "carbohydrates": "2 г"
+    },
+    {
+        "name": "Шейка Парижская [Черкизово]",
+        "calories": "180 кКал",
+        "priteins": "14,5 г",
+        "fats": "13 г",
+        "carbohydrates": "2 г"
+    },
+    {
+        "name": "Шейка Свиная [Черкизово]",
+        "calories": "290 кКал",
+        "priteins": "14 г",
+        "fats": "26 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Шейка Свиная в Маринаде [Черкизово]",
+        "calories": "379 кКал",
+        "priteins": "14 г",
+        "fats": "35 г",
+        "carbohydrates": "2 г"
+    },
+    {
+        "name": "Шницель в Маринаде [Черкизово]",
+        "calories": "311 кКал",
+        "priteins": "15 г",
+        "fats": "27 г",
+        "carbohydrates": "2 г"
+    },
+    {
+        "name": "Шницель Свиной Охлажденный [Черкизово]",
+        "calories": "130 кКал",
+        "priteins": "19 г",
+        "fats": "6 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Эскалоп в Маринаде [Черкизово]",
+        "calories": "301 кКал",
+        "priteins": "17 г",
+        "fats": "25 г",
+        "carbohydrates": "2 г"
+    },
+    {
+        "name": "Эскалоп Свиной Охлажденный [Черкизово]",
+        "calories": "217 кКал",
+        "priteins": "16 г",
+        "fats": "17 г",
+        "carbohydrates": "0 г"
+    },
+    {
+        "name": "Эскалоп Сочный с Пряными Травами [Черкизово]",
+        "calories": "125 кКал",
+        "priteins": "20 г",
+        "fats": "5 г",
+        "carbohydrates": "0 г"
+    }
+]
